@@ -27,7 +27,7 @@ let NAV = `<nav id="nav">
             color: var(--black);
         }
     </style>
-    <a href="/">
+    <a href="">
         <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span>
     </a>
 </nav>`
