@@ -2,7 +2,7 @@ let NAV = `<nav id="nav">
     <style>
         #nav{
             width: 100%;
-            padding: 1rem;
+            padding: 0.75rem;
             background-color: var(--yellow);
         }
         #nav a{

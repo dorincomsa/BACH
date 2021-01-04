@@ -180,7 +180,7 @@ function renderOperaCard(opera) {
     <div class="card flex-column">
         <div class="top flex-column" style="background-color: var(--${opera.curent.short})">
             <h2 class="tit" style="color: ${opera.perioada.titlecolor}">${opera.name}</h2>
-            <h4 style="color: ${opera.perioada.titlecolor}">${opera.autor.name}</h4>
+            <h4 style="color: ${opera.perioada.titlecolor}">de ${opera.autor.name}</h4>
         </div>
         <div class="bottom flex-column">
             <h3>${opera.desc}</h3>

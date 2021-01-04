@@ -197,5 +197,211 @@
                 "masura": "14 silabe"
             }
         }
+    },
+    {
+        "name": "Riga Crypto și lapona Enigel",
+        "short": "rigacrypto",
+        "autor": "barbu",
+        "an_publicatie": "1930",
+        "volum": "Joc Secund",
+        "gen":"liric",
+        "specie": "Alegorie",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["iubirea ca modalitate de cunoaștere a lumii","incompatibilitatea ființelor ce provin din lumi diferite"],
+            "secvente":[
+                "O secvență reprezentativă pentru tema textului este secvența în care Crypto îi face cele trei propuneri lui Enigel. Crypto îi oferă fragi: „Uite fragi, ție dragi,/ Ia-i și toarnă-i în puiacă.”, îi cere lui Enigel să îl ia cu ea: „Dacă pleci, sa culegi,/ Începi, rogu-te, cu mine.” Și, în final, o invită să ramână în lumea lui: „Lasă-l, uită-l, Enigel,/ În somn fraged și răcoare.”. Din această secvență reiese simbolistica lui Crypto, acesta fiind un simbol al ființei inferioare, incapabilă să-și depășească condiția, simbol al existenței instinctuale, vegetative, sugerând iraționalitatea, instinctualitatea și dezechilibrul.",
+                "O altă secvență reprezentativă este secvența justificarii refuzului de către Enigel: „Din umbră deasă, desfăcută,/ Mă-nchin la soarele-nțelept.”  Enigel este un simbol apolinic, al ființei superioare, spirituale și raționale, așa cum reiese și din aspirația sa către soare, simbol al cunoașterii. Acest lucru nu poate fi înțeles de către Crypto, acesta fiind predestinat stagnării și involuției. "
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "O trăsătură modernistă este depășirea limitelor tradiționale specifice prin problematica dezoltată și prin mijloacele artistice utilizate. Poezia este un poem alegoric bazat pe tema cunoașterii, prezentând o dimensiune simbol-alegorică în care regăsim formula lirismului narativ. De exemplu, remarcăm alternanța persoanelor gramaticale: mi, ție, eu, el, ei, nu voia, bârfeau, ai înfipt, mă tem etc. De asemenea, se remarcă prezența unor personaje-simbol: riga Crypto, simbol dionisiac al ființei inferioare, al existenței instinctuale,vegetative, și lapona Enigel, simbol apolinic al ființei superioare, al existenței spirituale, al împlinirii umane. Aceste personaje-simbol sunt strict legate de ideile exprimate în poezie.",
+                "O altă trăsătură modernistă este intelectualizarea și ermetizarea limbajului, „povestea” protagoniștilor nefiind decât un pretext pentru a ilustra idei și principii existențiale. Astfel de idei și principii sunt incompatibilitatea dintre regnuri, atracția contrariilor, superioritatea ființei umane în raport cu celelalte regnuri, antiteza slab/puternic și instinct/rațiune, strâns legate de tema textului."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Incipitul",
+                "value": "Un prim element semnificativ pentru textul-suport este incipitul. În incipit ne este prezentată o nunta medievală, simbol al iubirii împlinite, reprezenând o ramă sau un cadru pentru povestea de dragoste imposibilă a celor doua personaje-simbol: „Mult îndărătnic menestrel,/ Un cântec larg tot mai încearcă,/ Zi-mi de lapona Enigel/ Și Crypto, regele-ciupearcă.”"
+            },
+            {
+                "name": "Relații de opoziție",
+                "value": "Un al doilea element semnificativ este relația de opoziție dintre cele două personaje simbol. Riga Crypto provine dintr-un mediu întunecat, umed: „În pat de râu și-n humă unsă”, nefiind capabil să evolueze și să-și depășească condiția, pe când Enigel, deși provine dintr-un mediu rece și întunecat, este capabilă să-și depășească condiția, migrând spre sud. Crypto este condus de instinct, idealul său fiind să cunoască iubirea, pe când Enigel este condusă de rațiune, dorind să obțină cunoașterea absolută."
+            }
+        ],
+        "poezie": {
+            "lirism": "Lirism narativ",
+            "motive": ["soarele", "nunta"],
+            "simboluri":[
+                {
+                    "name":"soarele",
+                    "value":"simbol al cunoașterii absolute"
+                },
+                {
+                    "name":"Crypto",
+                    "value":"simbol al ființei inferioare, al existenței vegetative, instinctuale"
+                },
+                {
+                    "name":"Enigel",
+                    "value":"simbol al ființei superioare, al existenței spirituale, al împlinirii umane"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"metafore",
+                    "value": ["soarele-nțelept"]
+                },
+                {
+                    "name":"epitete",
+                    "value": ["umbra deasă"]
+                }
+            ],
+            "versificatie": {
+                "structura": "Se caracterizează prin asimetrie compozițională",
+                "strofe": "27 de strofe inegale",
+                "rima": "variabilă",
+                "ritm": "trohaic",
+                "masura": "inegală"
+            }
+        }
+    },
+    {
+        "name": "Testament",
+        "short": "testament",
+        "autor": "arghezi",
+        "an_publicatie": "1927",
+        "volum": "Cuvinte portivite",
+        "gen":"liric",
+        "specie": "Artă poetică",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["Creația"],
+            "secvente":[
+                "O secvență relevantă pentru tema opere este: „Slova de foc și slova făurită/Împerecheate-n carte se mărită”, în care esete exprimată viziunea despre creație a autorului. Acesta consideră ca actul creației este format din inspirație, așa cum sugerează metafora „Slova de foc”, dar și din trudă, așa cum sugerează metafora „slova făurită”.",
+                "O altă secvență relevantă este „Și, frământate mii de săptămâni,/ Le-am prefăcut în versuri și-n icoane”, din care aflăm despre creație că este un proces istovitor de purificare și transfigurare.",
+                "Relevantă pentru tema creației este și structura: „Bătrânii-au adunat, printre plăvani,/ sudoarea muncii sutelor de ani”, din care reiese necesitatea experienței înaintașilor pentru a ajunge la perfecțiune."
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "O trăsătura specifică modernismului este valorificarea temei creației ca meșteșug, dublată de condișia și rolul artistului în societate. Motive lirice specifice acestei teme sunt: motivul cărții, motivul slovei, motivul versului, motivul cuvântului și motivul robului.",
+                "O altă trăsătură specifică modernismului este eliberarea de normele prozodiei tradiționale prin utilizarea asimetriei. Poezia este alcătuită din cinci strofe de dimensiuni diferite, având un ritm și o măsură a versurilor variabile"
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Titlul",
+                "value": "Titlul operei „Testament” este format dintr-un substantiv comun, care în sens propriu reprezintă un act în care sunt cuprinse dorințele ce urmează a fi îndeplinite după moartea unei persoane. În sens conotativ, titlul primește o semnificație metaforică, poetul referindu-se la o moștenire spiritualp, și nu una materială, tangibilă." 
+            },
+            {
+                "name": "Estetica urâtului",
+                "value": "Prin utilizarea esteticii urâtului, unele cuvinte apoetice primesc un sens metaforic. De exemplu, în secvența „Din bube, mucegaiuri și noroi/ Iscat-am frumuseți și prețuri noi”, cuvintele „bube, mucegaiuri și noroi” reprezintă o sursă de inspirație, o materie primă, care prin prelucrare și trudă este transformată în creații plăcute, frumoase."
+            }
+        ],
+        "poezie": {
+            "lirism": "Monolog adresat",
+            "motive": ["cartea","slova","versul","cuvântul"],
+            "simboluri":[
+                {
+                    "name":"Slova de foc",
+                    "value":"simbol al inspirației"
+                },
+                {
+                    "name":"slova făurită",
+                    "value":"simbol al muncii, al trudei"
+                },
+                {
+                    "name":"cartea",
+                    "value":"simbol al creației"
+                },
+                {
+                    "name":"Dumnezeu de piatră",
+                    "value":"simbol al moștenirii spirituale"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"",
+                    "value": []
+                }
+            ],
+            "versificatie": {
+                "structura": "Asimetrie compozițională",
+                "strofe":"5 strofe asimetrice",
+                "rima": "-",
+                "ritm": "-",
+                "masura": "-"
+            }
+        }
+    },
+    {
+        "name": "Eu nu strivesc corola de minuni a lumii",
+        "short": "corola",
+        "autor": "blaga",
+        "an_publicatie": 1919,
+        "volum": "Poemele luminii",
+        "gen":"liric",
+        "specie": "Artă poetică modernă",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["Cunoașterea"],
+            "secvente":[
+                "O secvență reprezentativă pentru tema cunoașterii este incipitul poeziei: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc”. Din această secvență rezultă viziunea artistică a poetului față de lume, adept al conservării tainelor și al necunoscutelor lumii.",
+                ""
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "Eliberarea de rigoriile poeziei traiționale prin evitarea utilizării elementelor clasice de versificație. Astfel sunt introduse noi tehnici poetice: asimetria compozițională și tehnica ingambamentului: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc/ în calea mea/ în flori, în ochi, pe buze ori morminte.”",
+                "Tema operei este specifică modernismului. Aceasta este tema cunoașterii, din perspectiva raportului poet-univers. Aceasta reiese atât din motivele specifice: motivul luminii, motivul întunericului, motivul lumii, motivul tainei, dar și din abstractizarea următoarelor metafore: „corola de minuni”,„lumina mea”,„lumina altora”,„taina nopții”."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Titlul",
+                "value": "Titlul este o metaforă revelatorie alcătuită din verbul la forma negativă „nu strivesc” și din metafora „corola de minuni a lumii”, exprimând refuzul cunoaşterii de tip raţional, optând pentru cunoaşterea de tip luciferic."
+            },
+            {
+                "name": "Relații de opoziție",
+                "value": "Relația de opoziție între planul eului liric și planul celorlalți, raportate la modul de cunoașterie a lumii. Lumina eului liric se referă la cunoașterea luciferică, conservând tainele și frumusețile ascunse ale lumii, în timp ce lumina se referă la cunoașterea paradisiacă, rațională."
+            }
+        ],
+        "poezie": {
+            "lirism": "Lirism subiectiv, confesiv",
+            "motive": ["lumina","întunericul","lumea","taina"],
+            "simboluri":[
+                {
+                    "name":"lumina mea",
+                    "value":"simbol al cunoașterii luciferice, intuitive"
+                },
+                {
+                    "name":"lumina altora",
+                    "value":"simbol al cunoașterii paradisiace, raționale"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"Metafore",
+                    "value": ["corola de minuni a lumii","lumina mea","lumina altora","și flori și ochi și buze și morminte"]
+                }
+            ],
+            "versificatie": {
+                "structura": "Se caracterizează prin asimetrie și prezintă tehnica ingambamentului.",
+                "strofe":"o singură strofă cu 20 de versuri inegale",
+                "rima": "-",
+                "ritm": "-",
+                "masura": "-"
+            }
+        }
     }
 ]

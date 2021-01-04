@@ -71,6 +71,7 @@
             "secvente":[]
         },
         "curent": {
+            "short":"",
             "name": "",
             "trasaturi": []
         },
@@ -97,6 +98,7 @@
             ],
             "versificatie": {
                 "structura": "",
+                "strofe":"",
                 "rima": "",
                 "ritm": "",
                 "masura": ""

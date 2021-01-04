@@ -27,7 +27,7 @@ main{
     position: relative;
     height: 2rem;
     width: 2rem;
-    margin-right: 1rem;
+    margin-right: 0 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,4 +88,13 @@ div.grid2.grid{
 }
 div.grid2 >*:nth-child(4n+1),div.grid2 >*:nth-child(4n+2){
     background-color: white;  
+}
+
+div.grid-1col{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 0;
+}
+div.grid-1col > *:nth-child(2n+1){
+    background-color: white;
 }

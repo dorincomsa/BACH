@@ -12,13 +12,22 @@ function renderOperaView(operashort) {
         if(opera.perioada == oneperioada.short)
             opera.perioada = perioada
     })
+    ALLCURENTE.forEach(onecurent =>{
+        if(opera.curent.short == onecurent.short){
+            opera.curent.definitie = onecurent.definitie
+            opera.curent.name = onecurent.name
+        }
+    })
     //BOTH EPIC AND LIRIC
+
+    let trasaturi_curent = opera.curent.trasaturi.map( tras =>{
+        return `<p>${tras}</p>`
+    }).join(' ')
 
     let teme = opera.teme.name.join('\n')
     let secvente_teme = opera.teme.secvente.map(sec => {
         return `<p>Secvență</p><p>${sec}</p>`
     }).join(' ')
-
 
     let ELEMENTE = opera.elemente.map(element =>{
         return `<p>${element.name}</p><p>${element.value}</p>`
@@ -152,23 +161,24 @@ function renderOperaView(operashort) {
                 <p>${opera.poezie.versificatie.structura}</p>
 
                 <p>Strofe</p>
-                <p>Poezia este alcătuită din ${opera.poezie.versificatie.strofe}.</p>
+                <p>Poezia este alcătuită din ${opera.poezie.versificatie.strofe}</p>
 
                 <p>Rima</p>
-                <p>Rima este ${opera.poezie.versificatie.rima}.</p>
+                <p>${opera.poezie.versificatie.rima}</p>
 
                 <p>Ritmul</p>
-                <p>Ritmul este ${opera.poezie.versificatie.ritm}.</p>
+                <p>${opera.poezie.versificatie.ritm}</p>
 
                 <p>Măsura versurilor</p>
-                <p>Măsura versurilor este de ${opera.poezie.versificatie.masura}.</p>
+                <p>${opera.poezie.versificatie.masura}</p>
             </div>
         </div>
         `
 
         let motive = opera.poezie.motive.join(', ')
+
         let simboluri = opera.poezie.simboluri.map(simbol =>{
-            return `<span class="mar">${simbol.name}, ${simbol.value}</span>`
+            return `<span>${simbol.name}</span> <span>${simbol.value}</span>`
         }).join(' ')
 
         let figuri = opera.poezie.figuri_stil.map(figura =>{
@@ -178,6 +188,8 @@ function renderOperaView(operashort) {
             console.log('value')
             return `<p>${figura.name}</p> <p>${value}</p>`
         }).join(' ')
+
+
         let elemlirice=`
             <div class="package">
                 <div class="w100 header flex-row">
@@ -195,12 +207,17 @@ function renderOperaView(operashort) {
                     <p>${motive}</p> 
 
                     <p>Simboluri</p>
-                    <p>${simboluri}</p> 
-                
-                    <p>Figuri de stil</p>
-                    <div class="grid2 grid">
-                        ${figuri}
+                    <div class="grid2 grid">    
+                        ${simboluri}
                     </div>
+
+                    ${opera.poezie.figuri_stil[0].name==""?``:`
+                        <p>Figuri de stil</p>
+                        <div class="grid2 grid">
+                            ${figuri}
+                        </div>
+                    `}
+                    
                     
 
                 </div>
@@ -234,8 +251,11 @@ function renderOperaView(operashort) {
                     <p>Autor</p>
                     <p>${opera.autor.name}</p>
 
+                    <p>Date despre autor</p>
+                    <p>${opera.autor.date}</p>
+
                     <p>Publicație</p>
-                    <p>În anul ${opera.an_publicatie}${opera.volum == ''?'':`, în volumul ${opera.volum}`}</p>
+                    <p>În anul ${opera.an_publicatie}${opera.volum == ''?'':`, în volumul "${opera.volum}"`}</p>
 
                     <p>Specie</p>
                     <p>${opera.specie}</p>
@@ -245,6 +265,24 @@ function renderOperaView(operashort) {
             
             <div class="package">
                 <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Apartenența la ${opera.curent.name}</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="res/UI/line.svg" alt="">
+                        <img class="horizontal" src="res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="grid">
+                    <p>Definiție</p>
+                    <p>${opera.curent.definitie}</p>
+                    <p>Trăsături</p>
+                    <div class="grid grid-1col">
+                    ${trasaturi_curent}
+                    </div>
+                </div>
+            </div>
+
+            <div class="package">
+                <div class="w100 header flex-row">
                     <div><h2 class="subtitle">Teme</h2></div>
                     <div class="hide-package" onclick="togglePackage(this)">
                         <img class="vertical" src="res/UI/line.svg" alt="">
@@ -252,13 +290,9 @@ function renderOperaView(operashort) {
                     </div>
                 </div>
                 <div class="grid">
-                    
                     <p>Teme</p>
                     <p>${teme}</p>
-
                     ${secvente_teme}
-
-                    
                 </div>
             </div>
 
