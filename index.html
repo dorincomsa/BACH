@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> BACH</title>
+    <link rel="stylesheet" href="styles/root.css">
+    <link rel="shortcut icon" href="res/UI/favicon.ico" type="image/x-icon">
+
+    <script src="scripts/main.js" defer></script>
+    <script src="scripts/cards.js" defer></script>
+    <link id="viewcss" rel="stylesheet" href="styles/main.css">
+
+    <script src="views/curentView.js" defer></script>
+    <script src="views/autorView.js" defer></script>
+    <script src="views/operaView.js" defer></script>
+    
+    
+    
+
+</head>
+<body class="flex-column">
+   
+    <header class="flex-column">
+        <div class="title">
+            <h1 class="bac flex-row">BAC</h1>
+            <h1 class="h">H<span class='elper'>elper</span></h1>
+        </div>
+       <h2 class="desc">Pe acest site poti gasi materia pentru bacul la romana, organizata sistematic!</h2>
+      
+    </header>
+    
+    <div id="main" class="nav flex-row">
+        <img onclick="showMenu()" src="res/UI/menu.svg" alt="">
+        <h3 id="tab-title">Curente</h3>
+    </div>
+    <main class="flex-row">
+        
+        <div id='menu' class='menu flex-column'>
+            <div class="fullbox flex-column" >
+                <div class='close'>
+                    <img onclick="hideMenu(this)" src="res/UI/close.svg" alt="">
+                </div>
+                <ul>
+                    <li option="curente" class="option active">Curente</li>
+                    <li option="perioade" class="option">Perioade</li>
+                    <li option="autori" class="option">Autori</li>
+                    <li option="opere" class="option">Opere</li>
+                </ul>
+            </div>
+            
+        </div>
+        <section class='container flex-column'>
+            <div id='loading' class="loading flex-column">
+                <img  src="res/UI/loading.svg">
+            </div>
+
+            <div tab="curente" class="active flex-row">
+                
+            </div>
+            <div tab="perioade" class="flex-row">
+               
+            </div>
+            <div tab="autori" class="flex-row">
+                Autori
+            </div>
+            <div tab="opere" class="flex-row">
+                Opere
+            </div>
+            
+        </section>
+    </main>
+    <div class="footer-holder w100"></div>
+
+</body>
+
+<script src="data/autori.js"></script>
+<script src="data/perioade.js"></script>
+<script src="data/curente.js"></script>
+<script src="data/opere.js"></script>
+
+<script src="views/partials/nav.js"></script>
+<script src="views/partials/footer.js">
+</script>
+</html>

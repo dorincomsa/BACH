@@ -1,0 +1,106 @@
+[
+    {
+        "name": "",
+        "short": "",
+        "autor": "",
+        "an_publicatie": "",
+        "volum": "",
+        "gen":"epic",
+        "specie": "",
+        "perioada": "",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":[],
+            "secvente":[]
+        },
+        "curent": {
+            "short":"",
+            "name": "",
+            "trasaturi": []
+        },
+        "elemente": [
+            {
+                "name": "",
+                "value": ""
+            }
+        ],
+        "roman": {
+            "problematica": [],
+            "perspectiva_narativa": "",
+            "personaje": [
+                {
+                    "name":"",
+                    "about":""
+                }
+            ],
+            "timp":"",
+            "spatiu":"",
+            "rezumat": {
+                "expozitiune": "",
+                "intriga": "",
+                "desfasurarea_actiunii": "",
+                "punctul_culminant": "",
+                "deznodamant": ""
+            },
+            "caracterizare": {
+                "personaj": "",
+                "context": "",
+                "statut_social": "",
+                "portret_fizic": "",
+                "portret_moral": [
+                    {
+                        "trasatura": "",
+                        "value": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "",
+        "short": "",
+        "autor": "",
+        "an_publicatie": "",
+        "volum": "",
+        "gen":"liric",
+        "specie": "",
+        "perioada": "",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":[],
+            "secvente":[]
+        },
+        "curent": {
+            "name": "",
+            "trasaturi": []
+        },
+        "elemente": [
+            {
+                "name": "",
+                "value": ""
+            }
+        ],
+        "poezie": {
+            "lirism": "",
+            "motive": [],
+            "simboluri":[
+                {
+                    "name":"",
+                    "value":""
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"",
+                    "value": []
+                }
+            ],
+            "versificatie": {
+                "structura": "",
+                "rima": "",
+                "ritm": "",
+                "masura": ""
+            }
+        }
+    }
+]
