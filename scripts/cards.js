@@ -165,10 +165,11 @@ function loadOpereCards() {
         if(opera.gen=="epic"){
             desc = opera.specie
             
-            opera.desc = desc
         }else if(opera.gen=='liric'){
             desc = opera.specie
+            
         }
+        opera.desc = desc
         
         opereContainer.insertAdjacentHTML('beforeend', renderOperaCard(opera))
     })
@@ -183,7 +184,8 @@ function renderOperaCard(opera) {
         </div>
         <div class="bottom flex-column">
             <h3>${opera.desc}</h3>
-            <p>${opera.teme}</p>
+            <p>${opera.perioada.name}</p>
+            <p>${opera.curent.name}</p>
             <div class="flex-row ui">
                 <a onclick="changeView(renderOperaView('${opera.short}'),'opere')">Read more</a>
                 <div class="flex-row">

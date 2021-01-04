@@ -68,9 +68,11 @@ main{
     max-height: 0;
 }
 div.grid >*{
-    overflow-x: auto;
     border: 1px solid lightgray;
     padding: 1.25rem 0.5rem;
+    overflow-x: auto;
+}
+div.grid >p{
     white-space: pre-line;
     display: flex;
     flex-direction: column;
@@ -80,4 +82,10 @@ div.grid .mar{
 }
 div.grid >*:nth-child(4n+3),div.grid >*:nth-child(4n+4){
  background-color: gainsboro;   
+}
+div.grid2.grid{
+    padding: 0;
+}
+div.grid2 >*:nth-child(4n+1),div.grid2 >*:nth-child(4n+2){
+    background-color: white;  
 }

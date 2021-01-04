@@ -170,6 +170,14 @@ function renderOperaView(operashort) {
         let simboluri = opera.poezie.simboluri.map(simbol =>{
             return `<span class="mar">${simbol.name}, ${simbol.value}</span>`
         }).join(' ')
+
+        let figuri = opera.poezie.figuri_stil.map(figura =>{
+            let value = figura.value.map(oneval =>{
+                    return `"${oneval}"`
+            }).join(', ')
+            console.log('value')
+            return `<p>${figura.name}</p> <p>${value}</p>`
+        }).join(' ')
         let elemlirice=`
             <div class="package">
                 <div class="w100 header flex-row">
@@ -188,9 +196,12 @@ function renderOperaView(operashort) {
 
                     <p>Simboluri</p>
                     <p>${simboluri}</p> 
-
-                    <p></p>
-                    <p></p> 
+                
+                    <p>Figuri de stil</p>
+                    <div class="grid2 grid">
+                        ${figuri}
+                    </div>
+                    
 
                 </div>
             </div>
