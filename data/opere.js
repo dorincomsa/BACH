@@ -1,5 +1,89 @@
 let ALLOPERE= 
-[
+[   
+    {
+        "name": "Alexandru Lăpușneanul",
+        "short": "lapusneanul",
+        "autor": "Costache Negruzzi",
+        "an_publicatie": 1840,
+        "volum": "",
+        "gen":"epic",
+        "specie": "Nuvelă istorică",
+        "perioada": "pasoptista",
+        "sursa_inspiratie":"„Letopisețul Țării Moldovei” de Grigore Ureche",
+        "teme": {
+            "name":["istoria Moldovei în timpul celei de a doua domnii a lui Alexandru Lăpușneanul"],
+            "secvente":[
+                
+            ]
+        },
+        "curent": {
+            "short":"romantism",
+            "name": "Romantism",
+            "trasaturi": [
+                "Tema nuvelei este de factură romantică: istoria Moldovei în timpul celei de a doua domnii a lui Alexandru Lăpușneanul.",
+                "Utilizarea antitezei ca procedeu artistic de bază. Aceasta este reprezentată de antiteza dintre personajul principal și domnița Ruxandra."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Conflicte",
+                "value": "Nuvela surprinde mai multe tipuri de conflicte: politice: între domnitor și boieri, sociale: între domnitor și poporul nemulțumit, și morale, între domnitor și domnița Ruxandra."
+            },
+            {
+                "name": "Relații de opoziție",
+                "value": "Relația de opoziție este reprzentată de conflictul dintre domnitor și domniță. Alexandru Lăpușneanul este curd, viclean și violent, în timp ce domnița Ruxandra este blândă, milostivă și inocentă."
+            }
+        ],
+        "roman": {
+            "problematica": ["istorică"],
+            "perspectiva_narativa": "Este obiectivă cu focalizare zero.",
+            "structura":"Nuvela este de dimensiuni medii, alcătuită din patru capitole, fiecare având ca titlu o secvență reprezentativă din acel capitol.",
+            "personaje": [
+                {
+                    "name":"Alexandru Lăpușneanul",
+                    "about":"personaj principal, domnitor al Moldovei pentru a doua oară"
+                },
+                {
+                    "name":"Moțoc",
+                    "about":"personaj secundar, vornic lingușitor ce intră în slujba domnitorului"
+                },
+                {
+                    "name":"Spancioc și Stroici",
+                    "about":"boieri trădători, îl omoară pe domnitor"
+                },
+                {
+                    "name":"domnița Ruxandra",
+                    "about":"soția lui Alexandru Lăpușneanul"
+                }
+            ],
+            "timp":"în timpul domniei lui Alexandru Lăpușneanu, secolul al XVI-lea",
+            "spatiu":"Moldova",
+            "rezumat": {
+                "expozitiune": "Trădat de boieri și pierzând domnia Moldovei, Alexandru Lăpușneanul cere ajutor turcilor pentru a-și recăpăta tronul.",
+                "intriga": "Insistența acestuia de a deveni domnitor, cu toate că poporul nu îl vrea.",
+                "desfasurarea_actiunii": "Surprinde răzbunarea lui Alexandru Lăpușneanu asupra boierilor, ucigând și arzând cetăți, culminând cu uciderea a 47 de boieri la un ospăț.",
+                "punctul_culminant": "Peste patru ani, acesta se îmbolnăvește, cade la pat și se călugărește. Simțindu-se mai bine, acesta neagă toate cele întamplate și, într-un moment de furie, amenință pe toți cei prezenți cu moartea. Boierii Stroici și Spancioc sosesc și cu ajutorul domniței reușesc să-l otrăvească.",
+                "deznodamant": "Acesta este înmormântat la mănăstirea Slatina, construită de el."
+            },
+            "caracterizare": {
+                "personaj": "Alexandru Lăpușneanul",
+                "context": "Personaj principal, eponim, în jurul căruia se organizează întreaga acțiune a nuvelei.",
+                "statut_social": "Domnitor al Moldovei, aflat la a doua sa domnie",
+                "portret_fizic": "Este specific perioadei și statutului său social: „era îmbrăcat cu toată pompa domnească. Purta coroana Paleologilor și peste dulama poloneză de cativea stacoșie, avea cabanită turcească.”",
+                "portretul_moral":"Portretul moral se realizază gradual, prin fapte, Alexandru Lăpușneanul fiind un personaj complex, surprins în evoluție.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Determinare",
+                        "value": "Alexandru este caracterizat de hotărâre și determinare, fiind dornic de a prealua domnia, cu toate că poporul nu îl dorește: „Dacă voi nu mă vreți, eu vă vreu! [...] și voi merge ori cu voia, ori fără voia voastră”"
+                    },
+                    {
+                        "trasatura": "Viclenia",
+                        "value": "Acesta este viclean și diplomat, fiind un maestru al disimulării. Aceste trăsături sunt evidențiate în momentul discursului său despre pace și iertare adresat boierilor, urmând ca în aceeași zi, la ospăț, să îi omoare pe toți."
+                    }
+                ]
+            }
+        }
+    },
     {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
@@ -348,9 +432,10 @@ let ALLOPERE=
                 "realist",
                 "de observație socială",
                 "de inspirație rurală",
-                "de analiă psihologică"
+                "de analiză psihologică"
             ],
             "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "structura":"Este structurat în două volume: primul volum a fost publicat în 1955 și este format din 3 părți, iar al doilea volum a fost publicat în 1967 și este alcătuit din 5 părți.",
             "personaje": [
                 {
                     "name":"Ilie Moromete",
