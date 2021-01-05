@@ -64,7 +64,7 @@ function renderOperaView(operashort) {
             </div>
             <div class="grid">
                     <p>Problematica</p>
-                    <p>Roman ${opera.roman.problematica.join(', ')}.</p>
+                    <p>${opera.specie} ${opera.roman.problematica.join(', ')}.</p>
 
                 <p>Perspectiva narativă</p>
                 <p>${opera.roman.perspectiva_narativa}</p>
