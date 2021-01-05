@@ -3,7 +3,7 @@ let ALLOPERE=
     {
         "name": "Alexandru Lăpușneanul",
         "short": "lapusneanul",
-        "autor": "Costache Negruzzi",
+        "autor": "negruzzi",
         "an_publicatie": 1840,
         "volum": "",
         "gen":"epic",
