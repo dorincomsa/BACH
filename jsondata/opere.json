@@ -1,108 +1,291 @@
-[
+[   
     {
-        "name": "Moromeții",
-        "short": "morometii",
-        "autor": "preda",
-        "an_publicatie": 1955,
+        "name": "Alexandru Lăpușneanul",
+        "short": "lapusneanul",
+        "autor": "Costache Negruzzi",
+        "an_publicatie": 1840,
         "volum": "",
-        "gen": "epic",
-        "specie": "Roman",
-        "perioada": "postbelica",
-        "sursa_inspiratie":"",
-        "teme":{
-            "name": [
-                "Destrămarea familiei tradiționale",
-                "Destrămarea satului tradițional"
-            ],
+        "gen":"epic",
+        "specie": "Nuvelă istorică",
+        "perioada": "pasoptista",
+        "sursa_inspiratie":"„Letopisețul Țării Moldovei” de Grigore Ureche",
+        "teme": {
+            "name":["istoria Moldovei în timpul celei de a doua domnii a lui Alexandru Lăpușneanul"],
             "secvente":[
-
+                
             ]
         },
         "curent": {
-            "short":"realism",
-            "name": "Realism",
+            "short":"romantism",
+            "name": "Romantism",
             "trasaturi": [
-                "Prezența unor toponime reale: „Siliștea-Gumești”, „București”, „Câmpia Dunării”, dar și a unor evenimente reale: Primul Război Mondial, Al Doilea Război Mondial și Naționalizarea proprietății private, utilizate în ancorarea evenimentelor într-un anumit timp și spațiu.",
-                "Prezența unui personaj tipic în împrejurări tipice. Ilie Moromete este personaj central, reprezentând tipologia țăranului filozof. Acesta este un țăran mijlocaș din Siliștea-Gumești, tată a șase copii din două căsătorii, care trăiește drama destrămării familiei și a satului tradițional."
+                "Tema nuvelei este de factură romantică: istoria Moldovei în timpul celei de a doua domnii a lui Alexandru Lăpușneanul.",
+                "Utilizarea antitezei ca procedeu artistic de bază. Aceasta este reprezentată de antiteza dintre personajul principal și domnița Ruxandra."
             ]
         },
         "elemente": [
             {
-                "name": "Conflictul",
-                "value": "conflictul dintre tată și fiii cei mari, aceștia fiind nemulțumiți de modul în care tatăl gestionează banii, dar și de autoritatea paterna a acestuia, considerând că dorințele lor nu sunt înțelese sau resepectate de tatăl lor."
+                "name": "Conflicte",
+                "value": "Nuvela surprinde mai multe tipuri de conflicte: politice: între domnitor și boieri, sociale: între domnitor și poporul nemulțumit, și morale, între domnitor și domnița Ruxandra."
             },
             {
-                "name": "Perspectiva narativă",
-                "value": "Perspectiva narativă este obiectivă cu focalizare zero, și se completează cu cea a personajelor reflectori: Ilie și Niculae Moromete, interpretând evenimentele și având un punct de vedere personal, dar și cu cea a personajelor informatori: Parizianul, care îl înștiințează pe Moromete de planul celor trei fii ai acestuia."
-            },
-            {
-                "name": "Construcția subiectului",
-                "value": "Romanul este alcătuit din două volume, publicate la un interval de 12 ani. Primul volum este alcătuit din trei părți și surprinde drama destrămării familiei tradiționale, iar al doilea volum este alcătuit din cinci părți și surprinde drama destrămării satului tradițional."
-            },
-            {
-                "name": "Limbajul",
-                "value": "Limbajl are rolul de a oferi autenticitate evenimentelor, plasându-le într-un anumit timp și spațiu: Câmpia Dunarii, înainte de cel de-al Doilea Război Mondial. Limbajul se încadrează în registrul popular, regăsindu-se în vorbirea personajulor o mulțime de expresii, cuvinte cu formă populară și interjecții de adresare:  „mă”, „fă”, „a plouat de-a înecat toţi şoarecii în găurile lor”, „Şi tu ce-mi arăţi fasolele?” etc."
+                "name": "Relații de opoziție",
+                "value": "Relația de opoziție este reprzentată de conflictul dintre domnitor și domniță. Alexandru Lăpușneanul este curd, viclean și violent, în timp ce domnița Ruxandra este blândă, milostivă și inocentă."
             }
         ],
         "roman": {
-            "problematica": [
-                "realist",
-                "de observație socială",
-                "de inspirație rurală",
-                "de analiă psihologică"
-            ],
-            "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "problematica": ["istorică"],
+            "perspectiva_narativa": "Este obiectivă cu focalizare zero.",
+            "structura":"Nuvela este de dimensiuni medii, alcătuită din patru capitole, fiecare având ca titlu o secvență reprezentativă din acel capitol.",
             "personaje": [
                 {
-                    "name":"Ilie Moromete",
-                    "about":"Țăran mijlocaș din Siliștea-Gumești tată autoritar a 6 copii, reprezintă tipologia țăranului filozof."
+                    "name":"Alexandru Lăpușneanul",
+                    "about":"personaj principal, domnitor al Moldovei pentru a doua oară"
                 },
                 {
-                    "name":"Niculae Moromete",
-                    "about":"Mezinul familiei, dorinc de a merge la școală, alter ego al autorului."
+                    "name":"Moțoc",
+                    "about":"personaj secundar, vornic lingușitor ce intră în slujba domnitorului"
                 },
                 {
-                    "name":"Paraschiv, Nilă și Achim",
-                    "about":"Fii cei mari ai lui Ilie. Aceștia pun la cale un plan să fugă cu oile la București."
+                    "name":"Spancioc și Stroici",
+                    "about":"boieri trădători, îl omoară pe domnitor"
                 },
                 {
-                    "name":"Catrina Moromete",
-                    "about":"A doua soție a lui Ilie, mama lui Niculae, Tita și Ilinca."
-                },
-                {
-                    "name":"Tudor Bălosu",
-                    "about":"Reprezintă tipologia țăranului înstrărit."
+                    "name":"domnița Ruxandra",
+                    "about":"soția lui Alexandru Lăpușneanul"
                 }
             ],
-            "timp":"Înaintea Primului Razboi Mondial",
-            "spatiu":"Satul Siliștea-Gumești din Câmpia Dunării",
+            "timp":"în timpul domniei lui Alexandru Lăpușneanu, secolul al XVI-lea",
+            "spatiu":"Moldova",
             "rezumat": {
-                "expozitiune": "Prezentarea coordonatelor de timp și spațiu, și personajele. Ne este prezentat momentul întoarcerii de la câmp a familiei Moromete și modul în care decurge ziua.",
-                "intriga": "Planul fiilor celor mari de a pleca la București cu oile familiei.",
-                "desfasurarea_actiunii": "Prezentarea traiului familiei Moromete, dar și a celorlalte familii: familia Bălosu, familia Birică, familia Țugurlan, familia Boțoghină; și dorința lui Niculae de a merge la școală",
-                "punctul_culminant": "Răzvrătirea lui Paraschiv și Nilă împotriva tatălui, conflictul devenind unul violent, Moromete lovindu-și fiii cu un par.",
-                "deznodamant": "Plecarea fiilor la București cu cei doi cai, Ilie vinde din pământ pentru a plăti datoriile."
+                "expozitiune": "Trădat de boieri și pierzând domnia Moldovei, Alexandru Lăpușneanul cere ajutor turcilor pentru a-și recăpăta tronul.",
+                "intriga": "Insistența acestuia de a deveni domnitor, cu toate că poporul nu îl vrea.",
+                "desfasurarea_actiunii": "Surprinde răzbunarea lui Alexandru Lăpușneanu asupra boierilor, ucigând și arzând cetăți, culminând cu uciderea a 47 de boieri la un ospăț.",
+                "punctul_culminant": "Peste patru ani, acesta se îmbolnăvește, cade la pat și se călugărește. Simțindu-se mai bine, acesta neagă toate cele întamplate și, într-un moment de furie, amenință pe toți cei prezenți cu moartea. Boierii Stroici și Spancioc sosesc și cu ajutorul domniței reușesc să-l otrăvească.",
+                "deznodamant": "Acesta este înmormântat la mănăstirea Slatina, construită de el."
             },
             "caracterizare": {
-                "personaj": "Ilie Moromete",
-                "context": "Personaj principal, complex, realist, surprins în evoluție. Este un personaj simbolic, fiind un țăran atipic prin modul de a gândi și a se comporta.",
-                "statut_social": "Este un țăran mijlocaș din Siliștea-Gumești, tată autoritar a șase copii din două căsători: Paraschiv, Nilă și Achim din prima căsătorie, Tita, Ilinca și Niculae din a doua căsătorie, cu Catrina.",
-                "portret_fizic": "Portretul fizic al lui Ilie Moromete este sumar, lipsit de detalii, realizat prin caracterizare directă a autorului: „Era cu zece ani mai mare decât Catrina (contingent ‘911, făcuse războiul), acum avea acea vârstă între tinereţe şi bătrâneţe, când numai nenorociri sau bucurii mari mai pot schimba firea cuiva.” ",
-                "portret_moral": "Portretul moral este surprins în evoluție, constituindu-se pe parcurs prin acumulări succesive de informații. Dintre evenimentele în care este prezentat portretul moral, dar și evoluția acestuia, se remarcă: tăierea salcâmului,  discuțiile  politice de la poiana lui Iocan, plata fonciirii, serbarea de sfarșit de an a lui Niculae și răzvrătirea fiilor cei mari.",
+                "personaj": "Alexandru Lăpușneanul",
+                "context": "Personaj principal, eponim, în jurul căruia se organizează întreaga acțiune a nuvelei.",
+                "statut_social": "Domnitor al Moldovei, aflat la a doua sa domnie",
+                "portret_fizic": "Este specific perioadei și statutului său social: „era îmbrăcat cu toată pompa domnească. Purta coroana Paleologilor și peste dulama poloneză de cativea stacoșie, avea cabanită turcească.”",
+                "portretul_moral":"Portretul moral se realizază gradual, prin fapte, Alexandru Lăpușneanul fiind un personaj complex, surprins în evoluție.",
                 "trasaturi_morale": [
                     {
-                        "trasatura": "Spirit idealist",
-                        "value": "O trăsătură de caracter a lui Moromete este spiritul idealist, crezând cu tărie în păstrarea gospodăriei țărănești individuale, în unitatea familiei. În concepția sa, pământul are o mare importanță, reprezentând garanția unității familiei și șansa de a se bucura de viață. Acest lucru reiese și din vorbele pe care le spune fiilor cei mari, în momentul răzvrătirii acestora:  „Am muncit și am trudit și am luat pământul de la ciocoi ca să trăiți voi mai bine! De ani de zile mă zbat să nu vând din el, să plătesc fonciirea fără să vând, să vă rămâie vouă întreg”."
+                        "trasatura": "Determinare",
+                        "value": "Alexandru este caracterizat de hotărâre și determinare, fiind dornic de a prealua domnia, cu toate că poporul nu îl dorește: „Dacă voi nu mă vreți, eu vă vreu! [...] și voi merge ori cu voia, ori fără voia voastră”"
                     },
                     {
-                        "trasatura": "Spirit contemplativ",
-                        "value": "O altă trăsătură de caracter este spiritul său meditativ și contemplativ, aparținând tipologiei țăranului filosof, convins de importanța existenței sale și crezând cu tărie în valorile sale morale. Firea contemplativă și reflexivă reiese din modul în care acesta îsi exprimă opiniile referitoare la evenimentele la care participă și la personajele cu care intră în contact, complementare naratorului. De exemplu, în incipitul romanului, Moromete, după terminarea muncii, este surprins pe podiște fumând din țigară, contemplând și așteptând parcă să se întâmple ceva: „Moromete stătea pe stănoaga podiștei și se uita peste drum. Stătea degeaba, nu se uita în mod deosebit, dar pe fața lui se vedea că n-ar fi rău dacă s-ar ivi cineva [...] Se uită numai o dată la el, apoi începu să se uite în altă parte; se vedea că nu o astfel de apariție aștepta.”"
-                    },
-                    {
-                        "trasatura": "Fire ironică",
-                        "value": "Este o fire ironică, sarcastică, posedând arta disimulării și arta de comediant. Un exemplu reprezentativ acestor trasături se regăsește în dialogul cu Nilă, în momentul tăierii salcâmului, când este întrebat de ce a luat această hotărâre:  „— Salcâmul ăsta? De ce să-l tăiem? Cum o să-l tăiem? De ce?!... — Într-adins, răspunse Moromete. Într-adins, Nilă îl tăiem, înțelegi? Așa, ca să se mire proștii!”."
+                        "trasatura": "Viclenia",
+                        "value": "Acesta este viclean și diplomat, fiind un maestru al disimulării. Aceste trăsături sunt evidențiate în momentul discursului său despre pace și iertare adresat boierilor, urmând ca în aceeași zi, la ospăț, să îi omoare pe toți."
                     }
                 ]
+            }
+        }
+    },
+    {
+        "name": "Eu nu strivesc corola de minuni a lumii",
+        "short": "corola",
+        "autor": "blaga",
+        "an_publicatie": 1919,
+        "volum": "Poemele luminii",
+        "gen":"liric",
+        "specie": "Artă poetică modernă",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["Cunoașterea"],
+            "secvente":[
+                "O secvență reprezentativă pentru tema cunoașterii este incipitul poeziei: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc”. Din această secvență rezultă viziunea artistică a poetului față de lume, adept al conservării tainelor și al necunoscutelor lumii.",
+                ""
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "Eliberarea de rigoriile poeziei traiționale prin evitarea utilizării elementelor clasice de versificație. Astfel sunt introduse noi tehnici poetice: asimetria compozițională și tehnica ingambamentului: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc/ în calea mea/ în flori, în ochi, pe buze ori morminte.”",
+                "Tema operei este specifică modernismului. Aceasta este tema cunoașterii, din perspectiva raportului poet-univers. Aceasta reiese atât din motivele specifice: motivul luminii, motivul întunericului, motivul lumii, motivul tainei, dar și din abstractizarea următoarelor metafore: „corola de minuni”,„lumina mea”,„lumina altora”,„taina nopții”."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Titlul",
+                "value": "Titlul este o metaforă revelatorie alcătuită din verbul la forma negativă „nu strivesc” și din metafora „corola de minuni a lumii”, exprimând refuzul cunoaşterii de tip raţional, optând pentru cunoaşterea de tip luciferic."
+            },
+            {
+                "name": "Relații de opoziție",
+                "value": "Relația de opoziție între planul eului liric și planul celorlalți, raportate la modul de cunoașterie a lumii. Lumina eului liric se referă la cunoașterea luciferică, conservând tainele și frumusețile ascunse ale lumii, în timp ce lumina se referă la cunoașterea paradisiacă, rațională."
+            }
+        ],
+        "poezie": {
+            "lirism": "Lirism subiectiv, confesiv",
+            "motive": ["lumina","întunericul","lumea","taina"],
+            "simboluri":[
+                {
+                    "name":"lumina mea",
+                    "value":"simbol al cunoașterii luciferice, intuitive"
+                },
+                {
+                    "name":"lumina altora",
+                    "value":"simbol al cunoașterii paradisiace, raționale"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"Metafore",
+                    "value": ["corola de minuni a lumii","lumina mea","lumina altora","și flori și ochi și buze și morminte"]
+                }
+            ],
+            "versificatie": {
+                "structura": "Se caracterizează prin asimetrie și prezintă tehnica ingambamentului.",
+                "strofe":"o singură strofă cu 20 de versuri inegale",
+                "rima": "-",
+                "ritm": "-",
+                "masura": "-"
+            }
+        }
+    },
+    {
+        "name": "Testament",
+        "short": "testament",
+        "autor": "arghezi",
+        "an_publicatie": "1927",
+        "volum": "Cuvinte portivite",
+        "gen":"liric",
+        "specie": "Artă poetică",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["Creația"],
+            "secvente":[
+                "O secvență relevantă pentru tema opere este: „Slova de foc și slova făurită/Împerecheate-n carte se mărită”, în care esete exprimată viziunea despre creație a autorului. Acesta consideră ca actul creației este format din inspirație, așa cum sugerează metafora „Slova de foc”, dar și din trudă, așa cum sugerează metafora „slova făurită”.",
+                "O altă secvență relevantă este „Și, frământate mii de săptămâni,/ Le-am prefăcut în versuri și-n icoane”, din care aflăm despre creație că este un proces istovitor de purificare și transfigurare.",
+                "Relevantă pentru tema creației este și structura: „Bătrânii-au adunat, printre plăvani,/ sudoarea muncii sutelor de ani”, din care reiese necesitatea experienței înaintașilor pentru a ajunge la perfecțiune."
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "O trăsătura specifică modernismului este valorificarea temei creației ca meșteșug, dublată de condișia și rolul artistului în societate. Motive lirice specifice acestei teme sunt: motivul cărții, motivul slovei, motivul versului, motivul cuvântului și motivul robului.",
+                "O altă trăsătură specifică modernismului este eliberarea de normele prozodiei tradiționale prin utilizarea asimetriei. Poezia este alcătuită din cinci strofe de dimensiuni diferite, având un ritm și o măsură a versurilor variabile"
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Titlul",
+                "value": "Titlul operei „Testament” este format dintr-un substantiv comun, care în sens propriu reprezintă un act în care sunt cuprinse dorințele ce urmează a fi îndeplinite după moartea unei persoane. În sens conotativ, titlul primește o semnificație metaforică, poetul referindu-se la o moștenire spiritualp, și nu una materială, tangibilă." 
+            },
+            {
+                "name": "Estetica urâtului",
+                "value": "Prin utilizarea esteticii urâtului, unele cuvinte apoetice primesc un sens metaforic. De exemplu, în secvența „Din bube, mucegaiuri și noroi/ Iscat-am frumuseți și prețuri noi”, cuvintele „bube, mucegaiuri și noroi” reprezintă o sursă de inspirație, o materie primă, care prin prelucrare și trudă este transformată în creații plăcute, frumoase."
+            }
+        ],
+        "poezie": {
+            "lirism": "Monolog adresat",
+            "motive": ["cartea","slova","versul","cuvântul"],
+            "simboluri":[
+                {
+                    "name":"Slova de foc",
+                    "value":"simbol al inspirației"
+                },
+                {
+                    "name":"slova făurită",
+                    "value":"simbol al muncii, al trudei"
+                },
+                {
+                    "name":"cartea",
+                    "value":"simbol al creației"
+                },
+                {
+                    "name":"Dumnezeu de piatră",
+                    "value":"simbol al moștenirii spirituale"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"",
+                    "value": []
+                }
+            ],
+            "versificatie": {
+                "structura": "Asimetrie compozițională",
+                "strofe":"5 strofe asimetrice",
+                "rima": "-",
+                "ritm": "-",
+                "masura": "-"
+            }
+        }
+    },
+    {
+        "name": "Riga Crypto și lapona Enigel",
+        "short": "rigacrypto",
+        "autor": "barbu",
+        "an_publicatie": "1930",
+        "volum": "Joc Secund",
+        "gen":"liric",
+        "specie": "Alegorie",
+        "perioada": "interbelica",
+        "sursa_inspiratie":"",
+        "teme": {
+            "name":["iubirea ca modalitate de cunoaștere a lumii","incompatibilitatea ființelor ce provin din lumi diferite"],
+            "secvente":[
+                "O secvență reprezentativă pentru tema textului este secvența în care Crypto îi face cele trei propuneri lui Enigel. Crypto îi oferă fragi: „Uite fragi, ție dragi,/ Ia-i și toarnă-i în puiacă.”, îi cere lui Enigel să îl ia cu ea: „Dacă pleci, sa culegi,/ Începi, rogu-te, cu mine.” Și, în final, o invită să ramână în lumea lui: „Lasă-l, uită-l, Enigel,/ În somn fraged și răcoare.”. Din această secvență reiese simbolistica lui Crypto, acesta fiind un simbol al ființei inferioare, incapabilă să-și depășească condiția, simbol al existenței instinctuale, vegetative, sugerând iraționalitatea, instinctualitatea și dezechilibrul.",
+                "O altă secvență reprezentativă este secvența justificarii refuzului de către Enigel: „Din umbră deasă, desfăcută,/ Mă-nchin la soarele-nțelept.”  Enigel este un simbol apolinic, al ființei superioare, spirituale și raționale, așa cum reiese și din aspirația sa către soare, simbol al cunoașterii. Acest lucru nu poate fi înțeles de către Crypto, acesta fiind predestinat stagnării și involuției. "
+            ]
+        },
+        "curent": {
+            "short":"modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "O trăsătură modernistă este depășirea limitelor tradiționale specifice prin problematica dezoltată și prin mijloacele artistice utilizate. Poezia este un poem alegoric bazat pe tema cunoașterii, prezentând o dimensiune simbol-alegorică în care regăsim formula lirismului narativ. De exemplu, remarcăm alternanța persoanelor gramaticale: mi, ție, eu, el, ei, nu voia, bârfeau, ai înfipt, mă tem etc. De asemenea, se remarcă prezența unor personaje-simbol: riga Crypto, simbol dionisiac al ființei inferioare, al existenței instinctuale,vegetative, și lapona Enigel, simbol apolinic al ființei superioare, al existenței spirituale, al împlinirii umane. Aceste personaje-simbol sunt strict legate de ideile exprimate în poezie.",
+                "O altă trăsătură modernistă este intelectualizarea și ermetizarea limbajului, „povestea” protagoniștilor nefiind decât un pretext pentru a ilustra idei și principii existențiale. Astfel de idei și principii sunt incompatibilitatea dintre regnuri, atracția contrariilor, superioritatea ființei umane în raport cu celelalte regnuri, antiteza slab/puternic și instinct/rațiune, strâns legate de tema textului."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Incipitul",
+                "value": "Un prim element semnificativ pentru textul-suport este incipitul. În incipit ne este prezentată o nunta medievală, simbol al iubirii împlinite, reprezenând o ramă sau un cadru pentru povestea de dragoste imposibilă a celor doua personaje-simbol: „Mult îndărătnic menestrel,/ Un cântec larg tot mai încearcă,/ Zi-mi de lapona Enigel/ Și Crypto, regele-ciupearcă.”"
+            },
+            {
+                "name": "Relații de opoziție",
+                "value": "Un al doilea element semnificativ este relația de opoziție dintre cele două personaje simbol. Riga Crypto provine dintr-un mediu întunecat, umed: „În pat de râu și-n humă unsă”, nefiind capabil să evolueze și să-și depășească condiția, pe când Enigel, deși provine dintr-un mediu rece și întunecat, este capabilă să-și depășească condiția, migrând spre sud. Crypto este condus de instinct, idealul său fiind să cunoască iubirea, pe când Enigel este condusă de rațiune, dorind să obțină cunoașterea absolută."
+            }
+        ],
+        "poezie": {
+            "lirism": "Lirism narativ",
+            "motive": ["soarele", "nunta"],
+            "simboluri":[
+                {
+                    "name":"soarele",
+                    "value":"simbol al cunoașterii absolute"
+                },
+                {
+                    "name":"Crypto",
+                    "value":"simbol al ființei inferioare, al existenței vegetative, instinctuale"
+                },
+                {
+                    "name":"Enigel",
+                    "value":"simbol al ființei superioare, al existenței spirituale, al împlinirii umane"
+                }
+            ],
+            "figuri_stil":[
+                {
+                    "name":"metafore",
+                    "value": ["soarele-nțelept"]
+                },
+                {
+                    "name":"epitete",
+                    "value": ["umbra deasă"]
+                }
+            ],
+            "versificatie": {
+                "structura": "Se caracterizează prin asimetrie compozițională",
+                "strofe": "27 de strofe inegale",
+                "rima": "variabilă",
+                "ritm": "trohaic",
+                "masura": "inegală"
             }
         }
     },
@@ -199,208 +382,110 @@
         }
     },
     {
-        "name": "Riga Crypto și lapona Enigel",
-        "short": "rigacrypto",
-        "autor": "barbu",
-        "an_publicatie": "1930",
-        "volum": "Joc Secund",
-        "gen":"liric",
-        "specie": "Alegorie",
-        "perioada": "interbelica",
+        "name": "Moromeții",
+        "short": "morometii",
+        "autor": "preda",
+        "an_publicatie": 1955,
+        "volum": "",
+        "gen": "epic",
+        "specie": "Roman",
+        "perioada": "postbelica",
         "sursa_inspiratie":"",
-        "teme": {
-            "name":["iubirea ca modalitate de cunoaștere a lumii","incompatibilitatea ființelor ce provin din lumi diferite"],
+        "teme":{
+            "name": [
+                "Destrămarea familiei tradiționale",
+                "Destrămarea satului tradițional"
+            ],
             "secvente":[
-                "O secvență reprezentativă pentru tema textului este secvența în care Crypto îi face cele trei propuneri lui Enigel. Crypto îi oferă fragi: „Uite fragi, ție dragi,/ Ia-i și toarnă-i în puiacă.”, îi cere lui Enigel să îl ia cu ea: „Dacă pleci, sa culegi,/ Începi, rogu-te, cu mine.” Și, în final, o invită să ramână în lumea lui: „Lasă-l, uită-l, Enigel,/ În somn fraged și răcoare.”. Din această secvență reiese simbolistica lui Crypto, acesta fiind un simbol al ființei inferioare, incapabilă să-și depășească condiția, simbol al existenței instinctuale, vegetative, sugerând iraționalitatea, instinctualitatea și dezechilibrul.",
-                "O altă secvență reprezentativă este secvența justificarii refuzului de către Enigel: „Din umbră deasă, desfăcută,/ Mă-nchin la soarele-nțelept.”  Enigel este un simbol apolinic, al ființei superioare, spirituale și raționale, așa cum reiese și din aspirația sa către soare, simbol al cunoașterii. Acest lucru nu poate fi înțeles de către Crypto, acesta fiind predestinat stagnării și involuției. "
+
             ]
         },
         "curent": {
-            "short":"modernism",
-            "name": "Modernism",
+            "short":"realism",
+            "name": "Realism",
             "trasaturi": [
-                "O trăsătură modernistă este depășirea limitelor tradiționale specifice prin problematica dezoltată și prin mijloacele artistice utilizate. Poezia este un poem alegoric bazat pe tema cunoașterii, prezentând o dimensiune simbol-alegorică în care regăsim formula lirismului narativ. De exemplu, remarcăm alternanța persoanelor gramaticale: mi, ție, eu, el, ei, nu voia, bârfeau, ai înfipt, mă tem etc. De asemenea, se remarcă prezența unor personaje-simbol: riga Crypto, simbol dionisiac al ființei inferioare, al existenței instinctuale,vegetative, și lapona Enigel, simbol apolinic al ființei superioare, al existenței spirituale, al împlinirii umane. Aceste personaje-simbol sunt strict legate de ideile exprimate în poezie.",
-                "O altă trăsătură modernistă este intelectualizarea și ermetizarea limbajului, „povestea” protagoniștilor nefiind decât un pretext pentru a ilustra idei și principii existențiale. Astfel de idei și principii sunt incompatibilitatea dintre regnuri, atracția contrariilor, superioritatea ființei umane în raport cu celelalte regnuri, antiteza slab/puternic și instinct/rațiune, strâns legate de tema textului."
+                "Prezența unor toponime reale: „Siliștea-Gumești”, „București”, „Câmpia Dunării”, dar și a unor evenimente reale: Primul Război Mondial, Al Doilea Război Mondial și Naționalizarea proprietății private, utilizate în ancorarea evenimentelor într-un anumit timp și spațiu.",
+                "Prezența unui personaj tipic în împrejurări tipice. Ilie Moromete este personaj central, reprezentând tipologia țăranului filozof. Acesta este un țăran mijlocaș din Siliștea-Gumești, tată a șase copii din două căsătorii, care trăiește drama destrămării familiei și a satului tradițional."
             ]
         },
         "elemente": [
             {
-                "name": "Incipitul",
-                "value": "Un prim element semnificativ pentru textul-suport este incipitul. În incipit ne este prezentată o nunta medievală, simbol al iubirii împlinite, reprezenând o ramă sau un cadru pentru povestea de dragoste imposibilă a celor doua personaje-simbol: „Mult îndărătnic menestrel,/ Un cântec larg tot mai încearcă,/ Zi-mi de lapona Enigel/ Și Crypto, regele-ciupearcă.”"
+                "name": "Conflictul",
+                "value": "conflictul dintre tată și fiii cei mari, aceștia fiind nemulțumiți de modul în care tatăl gestionează banii, dar și de autoritatea paterna a acestuia, considerând că dorințele lor nu sunt înțelese sau resepectate de tatăl lor."
             },
             {
-                "name": "Relații de opoziție",
-                "value": "Un al doilea element semnificativ este relația de opoziție dintre cele două personaje simbol. Riga Crypto provine dintr-un mediu întunecat, umed: „În pat de râu și-n humă unsă”, nefiind capabil să evolueze și să-și depășească condiția, pe când Enigel, deși provine dintr-un mediu rece și întunecat, este capabilă să-și depășească condiția, migrând spre sud. Crypto este condus de instinct, idealul său fiind să cunoască iubirea, pe când Enigel este condusă de rațiune, dorind să obțină cunoașterea absolută."
-            }
-        ],
-        "poezie": {
-            "lirism": "Lirism narativ",
-            "motive": ["soarele", "nunta"],
-            "simboluri":[
-                {
-                    "name":"soarele",
-                    "value":"simbol al cunoașterii absolute"
-                },
-                {
-                    "name":"Crypto",
-                    "value":"simbol al ființei inferioare, al existenței vegetative, instinctuale"
-                },
-                {
-                    "name":"Enigel",
-                    "value":"simbol al ființei superioare, al existenței spirituale, al împlinirii umane"
-                }
-            ],
-            "figuri_stil":[
-                {
-                    "name":"metafore",
-                    "value": ["soarele-nțelept"]
-                },
-                {
-                    "name":"epitete",
-                    "value": ["umbra deasă"]
-                }
-            ],
-            "versificatie": {
-                "structura": "Se caracterizează prin asimetrie compozițională",
-                "strofe": "27 de strofe inegale",
-                "rima": "variabilă",
-                "ritm": "trohaic",
-                "masura": "inegală"
-            }
-        }
-    },
-    {
-        "name": "Testament",
-        "short": "testament",
-        "autor": "arghezi",
-        "an_publicatie": "1927",
-        "volum": "Cuvinte portivite",
-        "gen":"liric",
-        "specie": "Artă poetică",
-        "perioada": "interbelica",
-        "sursa_inspiratie":"",
-        "teme": {
-            "name":["Creația"],
-            "secvente":[
-                "O secvență relevantă pentru tema opere este: „Slova de foc și slova făurită/Împerecheate-n carte se mărită”, în care esete exprimată viziunea despre creație a autorului. Acesta consideră ca actul creației este format din inspirație, așa cum sugerează metafora „Slova de foc”, dar și din trudă, așa cum sugerează metafora „slova făurită”.",
-                "O altă secvență relevantă este „Și, frământate mii de săptămâni,/ Le-am prefăcut în versuri și-n icoane”, din care aflăm despre creație că este un proces istovitor de purificare și transfigurare.",
-                "Relevantă pentru tema creației este și structura: „Bătrânii-au adunat, printre plăvani,/ sudoarea muncii sutelor de ani”, din care reiese necesitatea experienței înaintașilor pentru a ajunge la perfecțiune."
-            ]
-        },
-        "curent": {
-            "short":"modernism",
-            "name": "Modernism",
-            "trasaturi": [
-                "O trăsătura specifică modernismului este valorificarea temei creației ca meșteșug, dublată de condișia și rolul artistului în societate. Motive lirice specifice acestei teme sunt: motivul cărții, motivul slovei, motivul versului, motivul cuvântului și motivul robului.",
-                "O altă trăsătură specifică modernismului este eliberarea de normele prozodiei tradiționale prin utilizarea asimetriei. Poezia este alcătuită din cinci strofe de dimensiuni diferite, având un ritm și o măsură a versurilor variabile"
-            ]
-        },
-        "elemente": [
-            {
-                "name": "Titlul",
-                "value": "Titlul operei „Testament” este format dintr-un substantiv comun, care în sens propriu reprezintă un act în care sunt cuprinse dorințele ce urmează a fi îndeplinite după moartea unei persoane. În sens conotativ, titlul primește o semnificație metaforică, poetul referindu-se la o moștenire spiritualp, și nu una materială, tangibilă." 
+                "name": "Perspectiva narativă",
+                "value": "Perspectiva narativă este obiectivă cu focalizare zero, și se completează cu cea a personajelor reflectori: Ilie și Niculae Moromete, interpretând evenimentele și având un punct de vedere personal, dar și cu cea a personajelor informatori: Parizianul, care îl înștiințează pe Moromete de planul celor trei fii ai acestuia."
             },
             {
-                "name": "Estetica urâtului",
-                "value": "Prin utilizarea esteticii urâtului, unele cuvinte apoetice primesc un sens metaforic. De exemplu, în secvența „Din bube, mucegaiuri și noroi/ Iscat-am frumuseți și prețuri noi”, cuvintele „bube, mucegaiuri și noroi” reprezintă o sursă de inspirație, o materie primă, care prin prelucrare și trudă este transformată în creații plăcute, frumoase."
-            }
-        ],
-        "poezie": {
-            "lirism": "Monolog adresat",
-            "motive": ["cartea","slova","versul","cuvântul"],
-            "simboluri":[
-                {
-                    "name":"Slova de foc",
-                    "value":"simbol al inspirației"
-                },
-                {
-                    "name":"slova făurită",
-                    "value":"simbol al muncii, al trudei"
-                },
-                {
-                    "name":"cartea",
-                    "value":"simbol al creației"
-                },
-                {
-                    "name":"Dumnezeu de piatră",
-                    "value":"simbol al moștenirii spirituale"
-                }
-            ],
-            "figuri_stil":[
-                {
-                    "name":"",
-                    "value": []
-                }
-            ],
-            "versificatie": {
-                "structura": "Asimetrie compozițională",
-                "strofe":"5 strofe asimetrice",
-                "rima": "-",
-                "ritm": "-",
-                "masura": "-"
-            }
-        }
-    },
-    {
-        "name": "Eu nu strivesc corola de minuni a lumii",
-        "short": "corola",
-        "autor": "blaga",
-        "an_publicatie": 1919,
-        "volum": "Poemele luminii",
-        "gen":"liric",
-        "specie": "Artă poetică modernă",
-        "perioada": "interbelica",
-        "sursa_inspiratie":"",
-        "teme": {
-            "name":["Cunoașterea"],
-            "secvente":[
-                "O secvență reprezentativă pentru tema cunoașterii este incipitul poeziei: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc”. Din această secvență rezultă viziunea artistică a poetului față de lume, adept al conservării tainelor și al necunoscutelor lumii.",
-                ""
-            ]
-        },
-        "curent": {
-            "short":"modernism",
-            "name": "Modernism",
-            "trasaturi": [
-                "Eliberarea de rigoriile poeziei traiționale prin evitarea utilizării elementelor clasice de versificație. Astfel sunt introduse noi tehnici poetice: asimetria compozițională și tehnica ingambamentului: „Eu nu strivesc corola de minuni a lumii/ și nu ucid/ cu mintea tainele, ce le-ntâlnesc/ în calea mea/ în flori, în ochi, pe buze ori morminte.”",
-                "Tema operei este specifică modernismului. Aceasta este tema cunoașterii, din perspectiva raportului poet-univers. Aceasta reiese atât din motivele specifice: motivul luminii, motivul întunericului, motivul lumii, motivul tainei, dar și din abstractizarea următoarelor metafore: „corola de minuni”,„lumina mea”,„lumina altora”,„taina nopții”."
-            ]
-        },
-        "elemente": [
-            {
-                "name": "Titlul",
-                "value": "Titlul este o metaforă revelatorie alcătuită din verbul la forma negativă „nu strivesc” și din metafora „corola de minuni a lumii”, exprimând refuzul cunoaşterii de tip raţional, optând pentru cunoaşterea de tip luciferic."
+                "name": "Construcția subiectului",
+                "value": "Romanul este alcătuit din două volume, publicate la un interval de 12 ani. Primul volum este alcătuit din trei părți și surprinde drama destrămării familiei tradiționale, iar al doilea volum este alcătuit din cinci părți și surprinde drama destrămării satului tradițional."
             },
             {
-                "name": "Relații de opoziție",
-                "value": "Relația de opoziție între planul eului liric și planul celorlalți, raportate la modul de cunoașterie a lumii. Lumina eului liric se referă la cunoașterea luciferică, conservând tainele și frumusețile ascunse ale lumii, în timp ce lumina se referă la cunoașterea paradisiacă, rațională."
+                "name": "Limbajul",
+                "value": "Limbajl are rolul de a oferi autenticitate evenimentelor, plasându-le într-un anumit timp și spațiu: Câmpia Dunarii, înainte de cel de-al Doilea Război Mondial. Limbajul se încadrează în registrul popular, regăsindu-se în vorbirea personajulor o mulțime de expresii, cuvinte cu formă populară și interjecții de adresare:  „mă”, „fă”, „a plouat de-a înecat toţi şoarecii în găurile lor”, „Şi tu ce-mi arăţi fasolele?” etc."
             }
         ],
-        "poezie": {
-            "lirism": "Lirism subiectiv, confesiv",
-            "motive": ["lumina","întunericul","lumea","taina"],
-            "simboluri":[
+        "roman": {
+            "problematica": [
+                "realist",
+                "de observație socială",
+                "de inspirație rurală",
+                "de analiză psihologică"
+            ],
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "structura":"Este structurat în două volume: primul volum a fost publicat în 1955 și este format din 3 părți, iar al doilea volum a fost publicat în 1967 și este alcătuit din 5 părți.",
+            "personaje": [
                 {
-                    "name":"lumina mea",
-                    "value":"simbol al cunoașterii luciferice, intuitive"
+                    "name":"Ilie Moromete",
+                    "about":"Țăran mijlocaș din Siliștea-Gumești tată autoritar a 6 copii, reprezintă tipologia țăranului filozof."
                 },
                 {
-                    "name":"lumina altora",
-                    "value":"simbol al cunoașterii paradisiace, raționale"
-                }
-            ],
-            "figuri_stil":[
+                    "name":"Niculae Moromete",
+                    "about":"Mezinul familiei, dorinc de a merge la școală, alter ego al autorului."
+                },
                 {
-                    "name":"Metafore",
-                    "value": ["corola de minuni a lumii","lumina mea","lumina altora","și flori și ochi și buze și morminte"]
+                    "name":"Paraschiv, Nilă și Achim",
+                    "about":"Fii cei mari ai lui Ilie. Aceștia pun la cale un plan să fugă cu oile la București."
+                },
+                {
+                    "name":"Catrina Moromete",
+                    "about":"A doua soție a lui Ilie, mama lui Niculae, Tita și Ilinca."
+                },
+                {
+                    "name":"Tudor Bălosu",
+                    "about":"Reprezintă tipologia țăranului înstrărit."
                 }
             ],
-            "versificatie": {
-                "structura": "Se caracterizează prin asimetrie și prezintă tehnica ingambamentului.",
-                "strofe":"o singură strofă cu 20 de versuri inegale",
-                "rima": "-",
-                "ritm": "-",
-                "masura": "-"
+            "timp":"Înaintea Primului Razboi Mondial",
+            "spatiu":"Satul Siliștea-Gumești din Câmpia Dunării",
+            "rezumat": {
+                "expozitiune": "Prezentarea coordonatelor de timp și spațiu, și personajele. Ne este prezentat momentul întoarcerii de la câmp a familiei Moromete și modul în care decurge ziua.",
+                "intriga": "Planul fiilor celor mari de a pleca la București cu oile familiei.",
+                "desfasurarea_actiunii": "Prezentarea traiului familiei Moromete, dar și a celorlalte familii: familia Bălosu, familia Birică, familia Țugurlan, familia Boțoghină; și dorința lui Niculae de a merge la școală",
+                "punctul_culminant": "Răzvrătirea lui Paraschiv și Nilă împotriva tatălui, conflictul devenind unul violent, Moromete lovindu-și fiii cu un par.",
+                "deznodamant": "Plecarea fiilor la București cu cei doi cai, Ilie vinde din pământ pentru a plăti datoriile."
+            },
+            "caracterizare": {
+                "personaj": "Ilie Moromete",
+                "context": "Personaj principal, complex, realist, surprins în evoluție. Este un personaj simbolic, fiind un țăran atipic prin modul de a gândi și a se comporta.",
+                "statut_social": "Este un țăran mijlocaș din Siliștea-Gumești, tată autoritar a șase copii din două căsători: Paraschiv, Nilă și Achim din prima căsătorie, Tita, Ilinca și Niculae din a doua căsătorie, cu Catrina.",
+                "portret_fizic": "Portretul fizic al lui Ilie Moromete este sumar, lipsit de detalii, realizat prin caracterizare directă a autorului: „Era cu zece ani mai mare decât Catrina (contingent ‘911, făcuse războiul), acum avea acea vârstă între tinereţe şi bătrâneţe, când numai nenorociri sau bucurii mari mai pot schimba firea cuiva.” ",
+                "portret_moral": "Portretul moral este surprins în evoluție, constituindu-se pe parcurs prin acumulări succesive de informații. Dintre evenimentele în care este prezentat portretul moral, dar și evoluția acestuia, se remarcă: tăierea salcâmului,  discuțiile  politice de la poiana lui Iocan, plata fonciirii, serbarea de sfarșit de an a lui Niculae și răzvrătirea fiilor cei mari.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Spirit idealist",
+                        "value": "O trăsătură de caracter a lui Moromete este spiritul idealist, crezând cu tărie în păstrarea gospodăriei țărănești individuale, în unitatea familiei. În concepția sa, pământul are o mare importanță, reprezentând garanția unității familiei și șansa de a se bucura de viață. Acest lucru reiese și din vorbele pe care le spune fiilor cei mari, în momentul răzvrătirii acestora:  „Am muncit și am trudit și am luat pământul de la ciocoi ca să trăiți voi mai bine! De ani de zile mă zbat să nu vând din el, să plătesc fonciirea fără să vând, să vă rămâie vouă întreg”."
+                    },
+                    {
+                        "trasatura": "Spirit contemplativ",
+                        "value": "O altă trăsătură de caracter este spiritul său meditativ și contemplativ, aparținând tipologiei țăranului filosof, convins de importanța existenței sale și crezând cu tărie în valorile sale morale. Firea contemplativă și reflexivă reiese din modul în care acesta îsi exprimă opiniile referitoare la evenimentele la care participă și la personajele cu care intră în contact, complementare naratorului. De exemplu, în incipitul romanului, Moromete, după terminarea muncii, este surprins pe podiște fumând din țigară, contemplând și așteptând parcă să se întâmple ceva: „Moromete stătea pe stănoaga podiștei și se uita peste drum. Stătea degeaba, nu se uita în mod deosebit, dar pe fața lui se vedea că n-ar fi rău dacă s-ar ivi cineva [...] Se uită numai o dată la el, apoi începu să se uite în altă parte; se vedea că nu o astfel de apariție aștepta.”"
+                    },
+                    {
+                        "trasatura": "Fire ironică",
+                        "value": "Este o fire ironică, sarcastică, posedând arta disimulării și arta de comediant. Un exemplu reprezentativ acestor trasături se regăsește în dialogul cu Nilă, în momentul tăierii salcâmului, când este întrebat de ce a luat această hotărâre:  „— Salcâmul ăsta? De ce să-l tăiem? Cum o să-l tăiem? De ce?!... — Într-adins, răspunse Moromete. Într-adins, Nilă îl tăiem, înțelegi? Așa, ca să se mire proștii!”."
+                    }
+                ]
             }
         }
     }

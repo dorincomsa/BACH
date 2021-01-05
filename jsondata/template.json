@@ -27,6 +27,7 @@
         "roman": {
             "problematica": [],
             "perspectiva_narativa": "",
+            "structura":"",
             "personaje": [
                 {
                     "name":"",
@@ -47,7 +48,8 @@
                 "context": "",
                 "statut_social": "",
                 "portret_fizic": "",
-                "portret_moral": [
+                "portretul_moral":"",
+                "trasaturi_morale": [
                     {
                         "trasatura": "",
                         "value": ""
