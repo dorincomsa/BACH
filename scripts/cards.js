@@ -157,16 +157,18 @@ function loadOpereCards() {
         })
 
         ALLCURENTE.forEach(curent => {
-            if(opera.curent == curent.short)
-                opera.curent = curent
+            if(opera.curent.short == curent.short)
+            {
+                opera.curent.name = curent.name
+            }
         })
         
         let desc
         if(opera.gen=="epic"){
-            desc = opera.specie
+            desc = opera.specie.name
             
         }else if(opera.gen=='liric'){
-            desc = opera.specie
+            desc = opera.specie.name
             
         }
         opera.desc = desc
@@ -190,7 +192,7 @@ function renderOperaCard(opera) {
                 <a onclick="changeView(renderOperaView('${opera.short}'),'opere')">Read more</a>
                 <div class="flex-row">
                     <p>Compara</p>
-                    <img src="res/UI/check.svg"/>
+                    <img src="res/UI/check.svg">
                 </div>
             </div>
             

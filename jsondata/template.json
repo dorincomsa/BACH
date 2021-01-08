@@ -5,16 +5,31 @@
         "autor": "",
         "an_publicatie": "",
         "volum": "",
-        "gen":"epic",
-        "specie": "",
+        "gen": "epic",
+        "specie": {
+            "enabled":true,
+            "name":"",
+            "def":"",
+            "trasaturi":[
+                {
+                    "name":"",
+                    "value":""
+                },
+                {
+                    "name":"",
+                    "value":""
+                }
+            ]
+        },
         "perioada": "",
-        "sursa_inspiratie":"",
+        "sursa_inspiratie": "",
         "teme": {
-            "name":[],
-            "secvente":[]
+            "name": [],
+            "secvente": []
         },
         "curent": {
-            "short":"",
+            "enabled":true,
+            "short": "",
             "name": "",
             "trasaturi": []
         },
@@ -27,15 +42,15 @@
         "roman": {
             "problematica": [],
             "perspectiva_narativa": "",
-            "structura":"",
+            "structura": "",
             "personaje": [
                 {
-                    "name":"",
-                    "about":""
+                    "name": "",
+                    "about": ""
                 }
             ],
-            "timp":"",
-            "spatiu":"",
+            "timp": "",
+            "spatiu": "",
             "rezumat": {
                 "expozitiune": "",
                 "intriga": "",
@@ -48,7 +63,7 @@
                 "context": "",
                 "statut_social": "",
                 "portret_fizic": "",
-                "portretul_moral":"",
+                "portret_moral": "",
                 "trasaturi_morale": [
                     {
                         "trasatura": "",
@@ -64,16 +79,31 @@
         "autor": "",
         "an_publicatie": "",
         "volum": "",
-        "gen":"liric",
-        "specie": "",
+        "gen": "liric",
+        "specie": {
+            "enabled":true,
+            "name":"",
+            "def":"",
+            "trasaturi":[
+                {
+                    "name":"",
+                    "value":""
+                },
+                {
+                    "name":"",
+                    "value":""
+                }
+            ]
+        },
         "perioada": "",
-        "sursa_inspiratie":"",
+        "sursa_inspiratie": "",
         "teme": {
-            "name":[],
-            "secvente":[]
+            "name": [],
+            "secvente": []
         },
         "curent": {
-            "short":"",
+            "enabled":true,
+            "short": "",
             "name": "",
             "trasaturi": []
         },
@@ -86,21 +116,21 @@
         "poezie": {
             "lirism": "",
             "motive": [],
-            "simboluri":[
+            "simboluri": [
                 {
-                    "name":"",
-                    "value":""
+                    "name": "",
+                    "value": ""
                 }
             ],
-            "figuri_stil":[
+            "figuri_stil": [
                 {
-                    "name":"",
+                    "name": "",
                     "value": []
                 }
             ],
             "versificatie": {
                 "structura": "",
-                "strofe":"",
+                "strofe": "",
                 "rima": "",
                 "ritm": "",
                 "masura": ""

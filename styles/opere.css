@@ -98,3 +98,4 @@ div.grid-1col{
 div.grid-1col > *:nth-child(2n+1){
     background-color: white;
 }
+

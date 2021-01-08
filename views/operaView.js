@@ -24,6 +24,11 @@ function renderOperaView(operashort) {
         return `<p>${tras}</p>`
     }).join(' ')
 
+    let trasaturi_specie = opera.specie.trasaturi.map( tras =>{
+        return `<p>${tras.name}</p><p>${tras.value}</p>`
+    }).join(' ')
+    
+
     let teme = opera.teme.name.join('\n')
     let secvente_teme = opera.teme.secvente.map(sec => {
         return `<p>Secvență</p><p>${sec}</p>`
@@ -44,8 +49,8 @@ function renderOperaView(operashort) {
             `
         })
         let trasaturi_morale = 
-        `   <p>Trăsătură</p>
-            <p>EXEMPLU</p>  `
+        `   <h3>Trăsături</h3>
+            <p></p>  `
         opera.roman.caracterizare.trasaturi_morale.forEach(tras =>{
             trasaturi_morale +=`
                 <p>${tras.trasatura}</p>
@@ -56,7 +61,7 @@ function renderOperaView(operashort) {
         GEN = `
         <div class="package">
             <div class="w100 header flex-row">
-                <div><h2 class="subtitle">Roman</h2></div>
+                <div><h2 class="subtitle">Proză</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
                     <img class="vertical" src="res/UI/line.svg" alt="">
                     <img class="horizontal" src="res/UI/line.svg" alt="">
@@ -64,7 +69,7 @@ function renderOperaView(operashort) {
             </div>
             <div class="grid">
                     <p>Problematica</p>
-                    <p>${opera.specie} ${opera.roman.problematica.join(', ')}.</p>
+                    <p>${opera.specie.name} ${opera.roman.problematica.join(', ')}.</p>
 
                 <p>Perspectiva narativă</p>
                 <p>${opera.roman.perspectiva_narativa}</p>
@@ -258,42 +263,61 @@ function renderOperaView(operashort) {
                     <p>În anul ${opera.an_publicatie}${opera.volum == ''?'':`, în volumul "${opera.volum}"`}</p>
 
                     <p>Specie</p>
-                    <p>${opera.specie}</p>
-
+                    <p>${opera.specie.name}</p>
                 </div>
             </div>
             
-            <div class="package">
-                <div class="w100 header flex-row">
-                    <div><h2 class="subtitle">Apartenența la ${opera.curent.name}</h2></div>
-                    <div class="hide-package" onclick="togglePackage(this)">
-                        <img class="vertical" src="res/UI/line.svg" alt="">
-                        <img class="horizontal" src="res/UI/line.svg" alt="">
+            ${opera.curent.enabled==false?'':`
+                <div class="package">
+                    <div class="w100 header flex-row">
+                        <div><h2 class="subtitle">Apartenența la curent: ${opera.curent.name}</h2></div>
+                        <div class="hide-package" onclick="togglePackage(this)">
+                            <img class="vertical" src="res/UI/line.svg" alt="">
+                            <img class="horizontal" src="res/UI/line.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <p>Definiție</p>
+                        <p>${opera.curent.definitie}</p>
+                        <p>Trăsături</p>
+                        <div class="grid grid-1col">
+                        ${trasaturi_curent}
+                        </div>
                     </div>
                 </div>
-                <div class="grid">
-                    <p>Definiție</p>
-                    <p>${opera.curent.definitie}</p>
-                    <p>Trăsături</p>
-                    <div class="grid grid-1col">
-                    ${trasaturi_curent}
+
+                
+            `}
+            ${opera.specie.enabled==false?'':`
+                <div class="package">
+                    <div class="w100 header flex-row">
+                        <div><h2 class="subtitle">Apartenența la specie: ${opera.specie.name}</h2></div>
+                        <div class="hide-package" onclick="togglePackage(this)">
+                            <img class="vertical" src="res/UI/line.svg" alt="">
+                            <img class="horizontal" src="res/UI/line.svg" alt="">
+                        </div>
                     </div>
+                    <div class="grid">
+                        <p>Definiție</p>
+                        <p>${opera.specie.def}</p>
+                        ${trasaturi_specie}
+                    </div>
+                </div>
+            `}
+            
+            <div class="package">
+            <div class="w100 header flex-row">
+                <div><h2 class="subtitle">Teme</h2></div>
+                <div class="hide-package" onclick="togglePackage(this)">
+                    <img class="vertical" src="res/UI/line.svg" alt="">
+                    <img class="horizontal" src="res/UI/line.svg" alt="">
                 </div>
             </div>
-
-            <div class="package">
-                <div class="w100 header flex-row">
-                    <div><h2 class="subtitle">Teme</h2></div>
-                    <div class="hide-package" onclick="togglePackage(this)">
-                        <img class="vertical" src="res/UI/line.svg" alt="">
-                        <img class="horizontal" src="res/UI/line.svg" alt="">
-                    </div>
-                </div>
-                <div class="grid">
-                    <p>Teme</p>
-                    <p>${teme}</p>
-                    ${secvente_teme}
-                </div>
+            <div class="grid">
+                <p>Teme</p>
+                <p>${teme}</p>
+                ${secvente_teme}
+            </div>
             </div>
 
            ${GEN}
