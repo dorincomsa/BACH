@@ -31,7 +31,7 @@ function renderOperaView(operashort) {
 
     let teme = opera.teme.name.join('\n')
     let secvente_teme = opera.teme.secvente.map(sec => {
-        return `<p>Secvență</p><p>${sec}</p>`
+        return `<p>${sec}</p>`
     }).join(' ')
 
     let ELEMENTE = opera.elemente.map(element =>{
@@ -249,6 +249,7 @@ function renderOperaView(operashort) {
                         <img class="horizontal" src="res/UI/line.svg" alt="">
                     </div>
                 </div>
+
                 <div class="grid">
                     <p>Nume</p>
                     <p>${opera.name}</p>
@@ -264,6 +265,11 @@ function renderOperaView(operashort) {
 
                     <p>Specie</p>
                     <p>${opera.specie.name}</p>
+
+                    ${opera.link==""?``:
+                    `<p>Text</p>
+                    <a class="link" href="${opera.link}">${opera.link}</a>`
+                    }
                 </div>
             </div>
             
@@ -316,7 +322,8 @@ function renderOperaView(operashort) {
             <div class="grid">
                 <p>Teme</p>
                 <p>${teme}</p>
-                ${secvente_teme}
+                <p>Secvențe reprezentative</p>
+                <div class="grid-1col grid"> ${secvente_teme} </div>
             </div>
             </div>
 

@@ -5,6 +5,7 @@
         "autor": "",
         "an_publicatie": "",
         "volum": "",
+        "link":"",
         "gen": "epic",
         "specie": {
             "enabled":true,
@@ -79,6 +80,7 @@
         "autor": "",
         "an_publicatie": "",
         "volum": "",
+        "link":"",
         "gen": "liric",
         "specie": {
             "enabled":true,

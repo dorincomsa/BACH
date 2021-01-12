@@ -7,6 +7,7 @@ ALLOPERE =
         "an_publicatie": 1840,
         "volum": "",
         "gen": "epic",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Nuvelă",
@@ -107,6 +108,7 @@ ALLOPERE =
         "an_publicatie": 1883,
         "volum": "Convorbiri literare",
         "gen": "liric",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Poem alegoric",
@@ -211,6 +213,7 @@ ALLOPERE =
         "an_publicatie": 1877,
         "volum": "",
         "gen": "epic",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Basm cult",
@@ -324,6 +327,7 @@ ALLOPERE =
         "an_publicatie": 1884,
         "volum": "„Convorbiri literare”",
         "gen": "epic",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Comedie de moravuri",
@@ -455,21 +459,101 @@ ALLOPERE =
         }
     },
     {
+        "name": "Plumb",
+        "short": "plumb",
+        "autor": "bacovia",
+        "an_publicatie": 1916,
+        "volum": "Plumb",
+        "gen": "liric",
+        "link":"https://www.versuri.ro/versuri/george-bacovia-plumb-_fcp6.html#",
+        "specie": {
+            "enabled":false,
+            "name":"Artă poetică",
+            "def":"",
+            "trasaturi":[
+                {
+                    "name":"",
+                    "value":""
+                },
+                {
+                    "name":"",
+                    "value":""
+                }
+            ]
+        },
+        "perioada": "interbelica",
+        "sursa_inspiratie": "",
+        "teme": {
+            "name": ["condiția individului într-o societate care limitează","moartea", "monotonia"],
+            "secvente": [
+                "O secvență reprezentativă este: „Stam singur în cavou”. În această secvență cavoul este o metaforă pentru limitările impuse de societate, dar și imposibilitatea depășirii condiției, exărimând sentimente de singurătate, depresie și disperare.",
+                "O altă imagine reprezentativă este „Și-i atârnau aripile de plumb”, în care aripile, care în general sunt un simbol al libertății, sugerează căderea continuă și greutatea sufletească prin asocierea cu plumbul, metal greu, slab reactiv."
+            ]
+        },
+        "curent": {
+            "enabled":true,
+            "short": "simbolism",
+            "name": "Simbolism",
+            "trasaturi": [
+                "Cultivarea simbolului nonconvențional, plumbul, prin intermediul căruia se face corespondeța între planul interior și cel exterior. \n Planul exterior, al realității descrise, prezintă un univers macabru, fundebru. Aceste peisaje sunt strict legate de proprietățile fizice ale plumbului: metal greu, gri, dur. \n Planul interior, al trăirilor sufletești comunică stări de însingurare, de angoasă, de apăsare sufletească și depresie. Aceste stări sunt justificate de proprietățile chimice ale plumbului, acesta fiind un metal toxic, slab reactiv.",
+                "Muzicalitatea accentuată a textului, realizată cu ajutorul unor mijloace artistice inovatoare. Repetiții: „Dormeau... Dormeau”, „Stam singur în cavou... Stam singur lângă mort”, paralelismul sintactic: „Dormeau adânc sicriele de plumb”, „Dormea întors amorul meu de plumb”, cuvinte cu sonoritate sumbră: „plumb”, „vestmânt”."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Titlul",
+                "value": "Este din punct de vedere morfologic un substantiv comun, nearticulat, denumind un element chimic. Acesta apare de șase ori în poezie, devenind un laitmotiv. Simbolic, acesta configurează atmosfera și anticipează ideea discursului liric, fiind în strânsă legătură cu temele dezvoltate."
+            },
+            {
+                "name": "Incipit",
+                "value": "Incipitul, reprezentat de versul „Dormeau adânc sicriele de plumb”, are rol în prezentarea planului exterior, dar șî în dezvoltarea temei morții, exprimând sentimente de singurătate, monotonie și angoasă."
+            },
+            {
+                "name": "Imaginar poetic",
+                "value": "Realizat din totalitatea figurilor de stil și a imaginilor artistice. Metaforele „sicriele de plumb”, „coroanele de plumb” au rol în oglindirea planului exterior, a cadrului deschis, pe când metaforele „amorul meu de plumb”, „aripele de plumb” au rol în evidențierea planului interior, a trăirilor sufletești, sugerând apăsarea sufletească, depresia, moartea, fiind în concordanță cu tema operei."
+            },
+            {
+                "name": "Tehnica paralelismului sintactic",
+                "value": "Are rol în accentuarea muzicalității versurilor, dar și în intensificarea sentimentelor transmise."
+            }
+        ],
+        "poezie": {
+            "lirism": "Lirismul subiectiv",
+            "motive": ["sicriu","cavou","mort","",""],
+            "simboluri": [
+                {
+                    "name": "Plumb",
+                    "value": "Metal gri, greu simbolizând un peisaj monoton, macabru, funebru. \n De asemenea plumbul este toxic, slab reactiv, exprimând apăsarea sufletească, depresia, disperarea și chiar moartea."
+                }
+            ],
+            "figuri_stil": [
+                {
+                    "name": "Metafore",
+                    "value": ["sicriele de plumb", "amorul meu de plumb", "aripele de plumb"]
+                }
+            ],
+            "versificatie": {
+                "structura": "Se caracterizează prin simetrie compozițională, prezentând tehnica paralelismului sintactic.",
+                "strofe": "2 catrene",
+                "rima": "îmbrățișată",
+                "ritm": "iambic",
+                "masura": "10 silabe"
+            }
+        }
+    },
+    {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
         "autor": "blaga",
         "an_publicatie": 1919,
         "volum": "Poemele luminii",
         "gen": "liric",
+        "link":"",
         "specie": {
-            "enabled": true,
+            "enabled": false,
             "name": "Artă poetică",
             "def": "",
             "trasaturi": [
-                {
-                    "name": "",
-                    "value": ""
-                },
                 {
                     "name": "",
                     "value": ""
@@ -550,6 +634,7 @@ ALLOPERE =
         "an_publicatie": "1927",
         "volum": "Cuvinte portivite",
         "gen": "liric",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Artă poetică",
@@ -643,6 +728,7 @@ ALLOPERE =
         "an_publicatie": "1930",
         "volum": "Joc Secund",
         "gen": "liric",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Alegorie",
@@ -738,6 +824,7 @@ ALLOPERE =
         "an_publicatie": 1921,
         "volum": "Pârgă",
         "gen": "liric",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Poerm de inspirație religioasă",
@@ -856,6 +943,7 @@ ALLOPERE =
         "an_publicatie": 1955,
         "volum": "",
         "gen": "epic",
+        "link":"",
         "specie": {
             "enabled": true,
             "name": "Roman",
