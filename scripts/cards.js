@@ -145,7 +145,12 @@ function loadOpereCards() {
     let opereContainer = document.querySelector('[tab=opere]')
     opereContainer.innerHTML = ''
 
-    ALLOPERE.forEach(opera => {
+    let opere = ALLOPERE
+
+    opere.sort((a,b)=> a.an_publicatie - b.an_publicatie)
+
+
+    opere.forEach(opera => {
         ALLPERIOADE.forEach(perioada => {
             if (opera.perioada == perioada.short) {
                 opera.perioada = perioada

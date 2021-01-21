@@ -7,7 +7,7 @@ ALLOPERE =
         "an_publicatie": 1840,
         "volum": "",
         "gen": "epic",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Nuvelă",
@@ -108,7 +108,7 @@ ALLOPERE =
         "an_publicatie": 1883,
         "volum": "Convorbiri literare",
         "gen": "liric",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Poem alegoric",
@@ -213,7 +213,7 @@ ALLOPERE =
         "an_publicatie": 1877,
         "volum": "",
         "gen": "epic",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Basm cult",
@@ -327,7 +327,7 @@ ALLOPERE =
         "an_publicatie": 1884,
         "volum": "„Convorbiri literare”",
         "gen": "epic",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Comedie de moravuri",
@@ -465,33 +465,37 @@ ALLOPERE =
         "an_publicatie": 1916,
         "volum": "Plumb",
         "gen": "liric",
-        "link":"https://www.versuri.ro/versuri/george-bacovia-plumb-_fcp6.html#",
+        "link": "https://www.versuri.ro/versuri/george-bacovia-plumb-_fcp6.html#",
         "specie": {
-            "enabled":false,
-            "name":"Artă poetică",
-            "def":"",
-            "trasaturi":[
+            "enabled": false,
+            "name": "Artă poetică",
+            "def": "",
+            "trasaturi": [
                 {
-                    "name":"",
-                    "value":""
+                    "name": "",
+                    "value": ""
                 },
                 {
-                    "name":"",
-                    "value":""
+                    "name": "",
+                    "value": ""
                 }
             ]
         },
         "perioada": "interbelica",
         "sursa_inspiratie": "",
         "teme": {
-            "name": ["condiția individului într-o societate care limitează","moartea", "monotonia"],
+            "name": [
+                "condiția individului într-o societate care limitează",
+                "moartea",
+                "monotonia"
+            ],
             "secvente": [
                 "O secvență reprezentativă este: „Stam singur în cavou”. În această secvență cavoul este o metaforă pentru limitările impuse de societate, dar și imposibilitatea depășirii condiției, exărimând sentimente de singurătate, depresie și disperare.",
                 "O altă imagine reprezentativă este „Și-i atârnau aripile de plumb”, în care aripile, care în general sunt un simbol al libertății, sugerează căderea continuă și greutatea sufletească prin asocierea cu plumbul, metal greu, slab reactiv."
             ]
         },
         "curent": {
-            "enabled":true,
+            "enabled": true,
             "short": "simbolism",
             "name": "Simbolism",
             "trasaturi": [
@@ -519,7 +523,13 @@ ALLOPERE =
         ],
         "poezie": {
             "lirism": "Lirismul subiectiv",
-            "motive": ["sicriu","cavou","mort","",""],
+            "motive": [
+                "sicriu",
+                "cavou",
+                "mort",
+                "",
+                ""
+            ],
             "simboluri": [
                 {
                     "name": "Plumb",
@@ -529,7 +539,11 @@ ALLOPERE =
             "figuri_stil": [
                 {
                     "name": "Metafore",
-                    "value": ["sicriele de plumb", "amorul meu de plumb", "aripele de plumb"]
+                    "value": [
+                        "sicriele de plumb",
+                        "amorul meu de plumb",
+                        "aripele de plumb"
+                    ]
                 }
             ],
             "versificatie": {
@@ -542,13 +556,136 @@ ALLOPERE =
         }
     },
     {
+        "name": "Ion",
+        "short": "ion",
+        "autor": "rebreanu",
+        "an_publicatie": 1920,
+        "volum": "",
+        "link": "",
+        "gen": "epic",
+        "specie": {
+            "enabled": false,
+            "name": "Roman",
+            "def": "",
+            "trasaturi": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        },
+        "perioada": "interbelica",
+        "sursa_inspiratie": "",
+        "teme": {
+            "name": [
+                "viața satului transilvanean la începutul secolului al-XX lea",
+                "dragostea țăranului pentru pământ",
+                ""
+            ],
+            "secvente": [
+                "o secvență reprezentativ pentru tema obsesiei pentru pământ este conflictul între Ion și Simion Lungu, în care Ion îi ia cateva brazde din terenul lui Simion. Glanetașul fusese nevoid sa îi vândă o parte din teren lui Simion, fapt pentru care Ion consideră că încă îi aparține. Acest gest trădează lăcomia și dorința de a avea cât mai mult pământ.",
+                "O altă secvență reprezentativă este pentru tema romanului este scena în care Ion sărută pământul. Astfel, Ion este recunoscător pentu pământurile câștigate, iar gestul în sine evidențiază obsesia pentru pământ a personajului."
+            ]
+        },
+        "curent": {
+            "enabled": true,
+            "short": "realism",
+            "name": "Realism",
+            "trasaturi": [
+                "O trăsătură a apartenenței la realism este tipologia tipică a personajelor. Ion reprezintă țăranul ardelean dornic de a avea pământ, dorință care se transformă în obsesie. De asemeanea, numele său este unul generic, des întâlnit în mediul rural - Ion. Alte tipologii întâlnite în roman sunt tipologia țăranului înstărit(Vasile Baciu) și tipologia intelectualului (învățătorul Herdelea și preotul Belciug).",
+                "O altă trăsătură a aparteneței la realism este perspectiva narativă. Aceasta este obiectivă cu focalizare zero, iar naratorul este obiectiv și omniscient, redând trăirile și sentimentele personajelor: „Glasul pământului pătrundea năvalnic în sufletul flăcăului, ca o chemare, copleşindu-l”."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Incipitul",
+                "value": "Acesta detaliază drumul care intră în satul Pripas, evidențiând coordonatele de spațiu. De asemenea, incipitul are rol simbolic, drumul devenind un simbol al destinului uman, care separă lumea reală de universul fictiv al personajelor. "
+            },
+            {
+                "name": "Perspectiva narativă",
+                "value": "Aceasta este obiectivă cu focalizare zero, iar naratorul este obiectiv și omniscient, redând trăirile și sentimentele personajelor: „Glasul pământului pătrundea năvalnic în sufletul flăcăului, ca o chemare, copleşindu-l”."
+            },
+            {
+                "name": "Mijloacele de caracterizare",
+                "value": ""
+            },
+            {
+                "name": "Caracterizarea directă / Tehnica pluriperspectivismului",
+                "value": "Este realizată de celelalte personaje cu ajutorul pluriperspectivismului, întâlnind trăsături contradictorii. Vasile Baciu îl consideră pe Ion un hoț și un tâlhar,învățătorul Herdelea îl vede pe Ion ca fiind un băiat harnic, ambițion și inteligent, iar preotul Belciug îl consideră un un stricat și un bătăuș."
+            },
+            {
+                "name": "Caracterizarea indirectă",
+                "value": "Se realizează prin faptele personajului, prin comportament și relația cu celelalte personaje. Deși este ambițios și harnic, obsesia sa pentru pământ îl dezumanizează, transformându-se dintr-un personaj pozitiv într-unul negativ, și având parte de un sfârșit tragic."
+            }
+        ],
+        "roman": {
+            "problematica": [
+                "realist, obiectiv"
+            ],
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "structura": "Alcătuit din două părți: „Glasul Pământului” și „Glasul iubirii”.",
+            "personaje": [
+                {
+                    "name": "Ion",
+                    "about": "Personaj principal, eponim, tipul țăranului sărac, dornic de a avea pământ."
+                },
+                {
+                    "name": "învâțătorul Herdelea",
+                    "about": "Tipul intelectualului, învățător la școala din Pripas."
+                },
+                {
+                    "name": "Vasile Baciu",
+                    "about": "Țăran înstărit, tatăl Anei, intră în conflict cu Ion pentru pământ."
+                },
+                {
+                    "name": "George Bulbuc",
+                    "about": "Țăran înstărit, se află în conflict cu Ion, pe care îl ucide, în final."
+                },
+                {
+                    "name": "Alte personaje",
+                    "about": "Ana, Florica, preotul Belciug, Laura, Glanetașul și Zenobia, Titu etc."
+                }
+            ],
+            "timp": "Acțiunea se petrece la începutul secolului al XX-lea, pe o perioadă de câțiva ani.",
+            "spatiu": "Acțiunea se petrece în satele Pripas, Armandia și Jidovița, din Ardeal.",
+            "rezumat": {
+                "expozitiune": "Prezentarea coordonatelor de timp și spatiu. Surprinde hora de duminică seara.",
+                "intriga": "Apariția lui Vasile Baciu și conflictul verbal cu Ion, pe care îl numește hoț și tâlhar, deoarece umblă după fata acestuia pentru a-i lua pământurile.",
+                "desfasurarea_actiunii": "Pentru a pune mâna pe pământul lui Vasile Baciu, Ion îi face curte Anei. Acesta o lasă însărcinată pe Ana însă refuză să se căsătorească cu ea până când Vasile Baciu trece pământurile pe numele lui.",
+                "punctul_culminant": "Realizând că Ion nu o iubește și a fost folosită doar pentru a pune mâna pe pământ, Ana se sinucide. Copilul lor moare de boală iar Ion stă în pușcărie pentru o lună",
+                "deznodamant": "Ion redescoperă dragostea pentru Florica, care acum este căsătorită cu George Bulbuc. George îl prinde într-o noapte pe Ion venind la Florica, și îl omoară lovindu-l cu sapa în cap."
+            },
+            "caracterizare": {
+                "personaj": "Ion",
+                "context": "Personaj principal, eponim, complex și dinamic, prin numele său reprezentând țăranul de pretutindeni.",
+                "statut_social": "Este fiul unui țăran sărac din satul Pripas, dornic de a avea pământ.",
+                "portret_fizic": "",
+                "portret_moral": "Este surprins în evoluție prin acumulare de fapte. Ion reprezintă tipologia țăranului dornic de a avea pământ, individualizat prin modul în care îl obține.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Lăcomia",
+                        "value": "Această trăsătură este evidentă în negocierile sale cu Vasile Baciu pentru pământ. Văzând că Vasile refuză să treacă pământul pe numele său, acesta îi exclamă: „Îmi trebuie tot pământulm socrule, știi bine... Tot pământul!”."
+                    },
+                    {
+                        "trasatura": "Lăcomia",
+                        "value": "O altă secvență reprezentativă a lăcomiei lui Ion este scena în care, după ce a primit pământurile lui Vasile Baciu, merge pe câmp, se apleacă și sărută pământul. Din această sevență reiese obesia lui Ion pentru pământ și recunoștiința pentru pământurile câștigate."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
         "autor": "blaga",
         "an_publicatie": 1919,
         "volum": "Poemele luminii",
         "gen": "liric",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": false,
             "name": "Artă poetică",
@@ -634,7 +771,7 @@ ALLOPERE =
         "an_publicatie": "1927",
         "volum": "Cuvinte portivite",
         "gen": "liric",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Artă poetică",
@@ -728,7 +865,7 @@ ALLOPERE =
         "an_publicatie": "1930",
         "volum": "Joc Secund",
         "gen": "liric",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Alegorie",
@@ -824,7 +961,7 @@ ALLOPERE =
         "an_publicatie": 1921,
         "volum": "Pârgă",
         "gen": "liric",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Poerm de inspirație religioasă",
@@ -943,7 +1080,7 @@ ALLOPERE =
         "an_publicatie": 1955,
         "volum": "",
         "gen": "epic",
-        "link":"",
+        "link": "",
         "specie": {
             "enabled": true,
             "name": "Roman",
