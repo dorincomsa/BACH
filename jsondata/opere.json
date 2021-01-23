@@ -678,6 +678,120 @@
         }
     },
     {
+        "name": "Ultima noapte de dragoste, întâia noapte de război",
+        "short": "ultima",
+        "autor": "petrescu",
+        "an_publicatie": 1930,
+        "volum": "",
+        "link": "",
+        "gen": "epic",
+        "specie": {
+            "enabled": true,
+            "name": "Roman",
+            "def": "Specie a genului epic, în proză, de dimensiuni ample, având o acțiune complexă care se desfășoară pe mai multe planuri narative, prezentând un număr mare de personaje.",
+            "trasaturi": [
+                {
+                    "name": "Dimensiuni ample",
+                    "value": "Textul este structurat în două părți: „Cartea întâia” și „Cartea a doua”, fiecare având mai multe capitole."
+                },
+                {
+                    "name": "Acțiune complexă",
+                    "value": "Acțiunea se desfășoară pe mai multe planuri narative: planul exterior, al evenimentelor propriu-zise, planul interior, al conflictelor interioare ale personajului, planul timpului narat, al poveștii de dragoste rememorate, și planul narațiunii, prezentul războiului."
+                },
+                {
+                    "name": "Personaje",
+                    "value": "La acțiune participă un număr mare de personaje, reprezentând tipologii și categorii sociale diferite. Personajul principal, Ștefan Gheorghidiu, reprezintă tipul intelectualului care tăiește experiența iubirii și a războiului. Alte tipologii remarcabile sunt: ofițeri și soldați: căpitanul Dimiu, căpitanul Corbu, Dumitru; politicieni: Nae Gheorghidiu; oameni de afaceri: Tache Gheorghidiu. "
+                }
+            ]
+        },
+        "perioada": "interbelica",
+        "sursa_inspiratie": "",
+        "teme": {
+            "name": [
+                "condiția intelectualului în raport cu experiența iubirii și a războiului",
+                "iubirea",
+                "societatea"
+            ],
+            "secvente": [
+                "Tema condiției intelectualului în raport cu experiența iubirii se manifestă în roman prin viziunea lui Ștefan față de iubire, acesta are o relație armonioasă, ideală cu Ela. Vede în Ela idealul iubirii, considerând că au fost predestinați unul celuilalt și că au drept de viață și de moarte asupra celuilalt.",
+                ""
+            ]
+        },
+        "curent": {
+            "enabled": true,
+            "short": "modernism",
+            "name": "Modernism",
+            "trasaturi": [
+                "O trăsătură a apartenenței la modernism este tema specifică dezvoltată. Aceasta este condiția intelectualului în raport cu experiența iubirii și a războiului. ",
+                "O altă trăsătură este construcția specifică a subiectului și a utilizarea tehnicilor narative specifice. Acțiunea este discontinuă, marcată prin acronie și prin utilizarea tehnicii inserței, naratorul povestind despre viața sa cu doi ani înainte."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Finalul",
+                "value": "Finalul suprinde despărțirea lui Ștefan de Ela, lăsându-i o mare parte din avere, deoarece toate evenimentele prin care a trecut l-a făcut să realizeze neimportanța unor lucruri. Acesta lasă trecutul în spate și este dispus la noi experiențe, conferindu-i romanului un final deschis."
+            },
+            {
+                "name": "Autoanaliza și introspecția",
+                "value": "Modalitățile de caracterizare sunt specifice romanului subiectiv, și anume introspecția, autoanaliza și monologul interior. Prin intermediul acestor modalități, naratorul reușește să se autocaracterizeze, prezentându-se așa cum se vede pe sine: „Niciodată n-am fost lovit ca bărbat și nu puteam îndura asta.”"
+            }
+        ],
+        "roman": {
+            "problematica": [
+                "modern",
+                "subiectiv",
+                "psihologic",
+                "citadin"
+            ],
+            "perspectiva_narativa": "subiectivă cu focalizare internă",
+            "structura": "Este alcătuit din două părți: „Cartea întâia” și „Cartea a doua”, și se caracterizează prin acronie, fiind utilizate tehnica inserței, a narațiunii confesive, a jurnalului de război.",
+            "personaje": [
+                {
+                    "name": "Ștefan Gheorghidiu",
+                    "about": "Personaj principal, narator, alter ego al autorului, sublocotenent în timpul Primului Război Mondial."
+                },
+                {
+                    "name": "Ela",
+                    "about": "Soția naratorului, colegă de la faculate a acestuia."
+                },
+                {
+                    "name": "Grigoriade/ Domnul G",
+                    "about": "Avocat, presupus amant al Elei."
+                },
+                {
+                    "name": "Alte personaje",
+                    "about": "Nae Gheorghidiu, Tache Gheorghidiu, familia naratorului, căpitanul Dimiu, căpitanul Corbu."
+                }
+            ],
+            "timp": "Suprinde evenimentele trăite de protagonist cu doi ani înaintea intrării în război în 1916, cât și din timpul acestuia.",
+            "spatiu": "Mediul citadin, reprezentat de orașele București, Câmpulung, Auzga, dar și pe front, pe Valea Prahovei.",
+            "rezumat": {
+                "expozitiune": "Prezentarea coordonatelor de timp și spațiu, în 1916, la cazarmă. Este reprezentat de primul capitol și surprinde discuțiile naratorului cu ofițerii de la popotă despre dragoste, cerând de asemenea permisiunea să meargă să-și viziteze soția.",
+                "intriga": "Marchează intrarea în planul timpului narat, al poveștii de dragoste, prezentând evenimentele petrecute cu doi ani înainte: Ștefan Gheorghidiu, student la Filozofie, duce o viață modestă cu soția sa Ela, studentă la Litere, până când primește prin testament o mare avere.",
+                "desfasurarea_actiunii": "Surprinde viața celor doi soți în noua lume mondenă, pentru care Ela prezintă un mare interes. Acești participă la multe evenimente cu alți membri ai societății înalte, iar naratorul începe a-și suspecta soția de infidelitate, aceasta părând că filtrează cu un anumit Grigoriade. Relația lor devine una nesigură, despărțindu-se și împăcându-se de mai multe ori.",
+                "punctul_culminant": "Înapoi la cazarmă, Ștefan obține permisiunea să o viziteze pe Ela. După ce o vizitează, îl întâlnește pe Grigoriade și presupune că acesta este acolo pentru Ela. Acesta hotărăște să îi omoare pe amândoi, însă se întâlnește cu un ofițer care îi impune să se întoarcă numaidecât la cazarmă. Pe drum, ofițerul îi povestește despre Grigoriade, poveste care îi confirmă suspiciunile și realizează că este înșelat. În aceeași seară, află că România a intrat în război.",
+                "deznodamant": "Surpinde acțiunile naratorului pe front, unde de multe ori scapă de moarte prin urechile acului. Contemplează despre sentimentele sale față de Ela și realizează că nu mai simte nimic pentru ea. Acesta este rănit și este trimis la spital, unde se întâlnește cu Ela, de care se desparte, lăsându-i o parte din avere."
+            },
+            "caracterizare": {
+                "personaj": "Ștefan Gheorghidiu",
+                "context": "Personaj principal, narator al evenimentelor, prezentând în mod subiectiv evenimentele trăite și alter ego al autorului.",
+                "statut_social": "Sublocotenent în armata română în timpul Primului Război Mondial, student la facultatea de Filozofie, căsătorit cu o colega de la universitate. Acesta provine dintr-o familie modestă, însă are acces la viața mondenă a capitalei în urma unei moșteniri semnificative.",
+                "portret_fizic": "",
+                "portret_moral": "Se realizează evolutiv, prin acumulare de fapte, prin confesiune și autoanaliză. Ștefan Gheorghidiu reprezintă tipul intelectualului, care trăiește drama incertitudinii fidelității soției și drama confruntării cu moartea.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Spirit idealist",
+                        "value": "Este un spirit idealist, consideră că trăiește iubirea absolută, văzând în Ela ființa predestinată: „Simțeam că femeia aceasta era a mea, în exemplar unic, așa ca eul meu, ca mama mea”."
+                    },
+                    {
+                        "trasatura": "Mândrie",
+                        "value": "Este orgolios și posesiv, având tot timpul senitmenul superiorității în raport cu ceilalți: „-Discuția dumneavoastră este copilăroasă și primară. Nu cunoașteți nimic din psihologia dragostei”."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
         "autor": "blaga",
