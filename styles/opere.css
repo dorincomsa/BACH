@@ -98,6 +98,9 @@ div.grid-1col{
 div.grid-1col > *:nth-child(2n+1){
     background-color: white;
 }
+div.grid-1col > *:nth-child(2n){
+    background-color: gainsboro;
+}
 .link{
     color: rgb(56, 90, 161);
     transition: color 0.2s ease;

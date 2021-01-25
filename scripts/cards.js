@@ -191,8 +191,7 @@ function renderOperaCard(opera) {
         </div>
         <div class="bottom flex-column">
             <h3>${opera.desc}</h3>
-            <p>${opera.perioada.name}</p>
-            <p>${opera.curent.name}</p>
+            <p>${opera.perioada.name} - <span class="black">${opera.an_publicatie}</span></p>
             <div class="flex-row ui">
                 <a onclick="changeView(renderOperaView('${opera.short}'),'opere')">Read more</a>
                 <div class="flex-row">

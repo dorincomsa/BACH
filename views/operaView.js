@@ -29,7 +29,9 @@ function renderOperaView(operashort) {
     }).join(' ')
     
 
-    let teme = opera.teme.name.join('\n')
+    let teme = opera.teme.name.map(tema => {
+        return `<p>${tema}</p>`
+    }).join(' ');
     let secvente_teme = opera.teme.secvente.map(sec => {
         return `<p>${sec}</p>`
     }).join(' ')
@@ -321,7 +323,7 @@ function renderOperaView(operashort) {
             </div>
             <div class="grid">
                 <p>Teme</p>
-                <p>${teme}</p>
+                <div class="grid-1col grid"> ${teme} </div>
                 <p>Secvențe reprezentative</p>
                 <div class="grid-1col grid"> ${secvente_teme} </div>
             </div>

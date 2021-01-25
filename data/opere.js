@@ -793,6 +793,115 @@ ALLOPERE =
         }
     },
     {
+        "name": "Baltagul",
+        "short": "baltagul",
+        "autor": "sadoveanu",
+        "an_publicatie": 1930,
+        "volum": "",
+        "link": "",
+        "gen": "epic",
+        "specie": {
+            "enabled": false,
+            "name": "Roman",
+            "def": "",
+            "trasaturi": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        },
+        "perioada": "interbelica",
+        "sursa_inspiratie": "balada populară „Miorița”",
+        "teme": {
+            "name": ["căutarea adevărului","viața satului de munte","familia","destinul"],
+            "secvente": [
+                "O secvență reprezentativă pentru tema căutării adevărului este momentul din intriga romanului în care Vitoria se decide să plece în căutarea lui Nechifor. Soțul ei lipsise de peste șaptezeci de zile și după ce are un vis în care îl vede pe Nechifor trecând o apă, înțelege că ceva i s-a întâmplat și se hotărăște să îl cheme pe Gheorghiță și să meargă în căutarea lui Nechifor.",
+                "O altă secvență reprezentativa este momentul descoperirii rămășițelor lui Nechifor. Întorcându-se din Suha, în care Nechifor nu mai ajunsese, câinele lor, Lupu, găsește osemintele într-o prăpastie. Vitoria observă urma de baltag din craniu și își dă seama cum s-a petrecut omorul."
+            ]
+        },
+        "curent": {
+            "enabled": true,
+            "short": "realism",
+            "name": "Realism",
+            "trasaturi": [
+                "O trăsătură specifică realismului este tipologia tipica a personajelor, specifica mediului din care provin, și anume satul tradițional de munte. Vitoria Lipan este o munteancă din Măgura Tarcăului, soția unui cioban înstărit. Reprezintă tipologia femeii justițiare, independente, plecând în căutarea soțului care nu se mai întorsese. Alte tipologii ale personajelor sunt: tipul ciobanilor: Calistrat Bogza și Ilie Cuțui, tipul cârciumarilor: Toma și Iorgu Vasiliu, preotul Daniil.",
+                "O altă trăsătură a realismului este obiectivarea perspectivei narative, narațiunea realizându-se la persoana a III-a, iar naratorul fiind obiectiv și omniscient. Astfel se realizează construcția subiectului într-o manieră obiectivă, punând accent pe firul narativ al planului exterior. "
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Limbajul",
+                "value": "Limbajul este specific mediului rural din care provin personajele, regăsindu-se o mulțime de expresii și zicători populare: „Cel ce spune multe, știe puține.”"
+            },
+            {
+                "name": "Finalul",
+                "value": "Finalul este unul simbolic. Vitoria își duce la intenția de a face un act justițiar, îl determină pe Calistrat Bogza să-și recunoască fapta, iar moartea acestuia restabilește rânduiala."
+            }
+        ],
+        "roman": {
+            "problematica": ["realist","tradițional","obiectiv","monografic","mitic și simbolic"],
+            "perspectiva_narativa": "obiectivă cu focalizare zero",
+            "structura": "Subiectul se constituie cronologic, acțiunea este relativ simplă și prezintă un singur fir narativ, remarcându-se tehnica înlănțuirii.",
+            "personaje": [
+                {
+                    "name": "Nechifor Lipan",
+                    "about": "Personaj absen, tipologia oierului înstărit din Măgura Tarcăului."
+                },
+                {
+                    "name": "Vitoria Lipan",
+                    "about": "Personaj principal, reprezentând tipologia femeii justițiare. Este soția lui Nechifor, pleacă în căutarea acestuia. "
+                },
+                {
+                    "name": "Gheorghiță",
+                    "about": "Fiul Vitoriei și al lui Nechifor, o însoțește pe Vitoria în căutarea lui Nechifor. Săvârșește actul justițiar."
+                },
+                {
+                    "name": "Calistrat Bogza și Ilie Cuțui",
+                    "about": "Oieri din satul Doi Meri. Îl ucid pe Nechifor pentru a-i fura oile."
+                },
+                {
+                    "name": "Alte personaje",
+                    "about": "Minodora, preotul Daniil, negustorul David, cârciumarul Toma."
+                }
+            ],
+            "timp": "Realizate cu ajutorul reperelor religioase: după Bobotează, Sfântul Andrei, Postul Mare.",
+            "spatiu": "Realizate cu ajutorul toponimelor: Măgura Tarcăului, Vatra Dornei, Sabasa, Suha, etc.",
+            "rezumat": {
+                "expozitiune": "Prezentarea coordonatelor de timp și spațiu. Vitoria Lipan îl așteaptă pe soțul ei, Nechifor, plecat de prea mult timp la Dorna să cumpere oi.",
+                "intriga": "Având vise urâte despre soțul ei, aceasta se hotorăște să plece în căutarea soțului, împreună cu fiul lor, Gheorghiță. ",
+                "desfasurarea_actiunii": "După ce își lasă casa în grija preotului și după ce își trimite fata, Minodora, la mănăstire,Vitoria pornește spre Dorna împreună cu Gheorghiță, refăcând traseul lui Nechifor. La Dorna, află că Nechifor vându-se o parte din oile pe care le cumpărase altor doi oieri, cu care se înovărășise. În Suha, Vitoria află că soțul ei nu mai ajunsese, și realizează că trebuie să fi fost ucis de ceilalți oieri, Calistrat Bogza și Ilie Cuțui. Întorcându-se spre Sabasa, găsesc osemintele lui Nechifor într-o râpă. ",
+                "punctul_culminant": "La praznic, Vitoria povestește moartea lui Nechifor, iar Calistrat Bogza, simțindu-se amenințat, se înfurie. Gheorghiță îl lovește cu Baltagul în cap, iar acesta, văzându-se în pragul morții, își recunoaște fapta.",
+                "deznodamant": "Vitoria face planuri de viitor, susținând că viața trebuie să își urmeze cursul firesc."
+            },
+            "caracterizare": {
+                "personaj": "Vitoria Lipan",
+                "context": "Personaj principal, complex, acțiunea gravitând în jurul său.",
+                "statut_social": "Munteancă din Măgura Tarcăului, soția unui oier înstărit, Nechifor, mamă a doi copii: Gheorghiță și Minodora.",
+                "portret_fizic": "Este sumar, realizat cu ajutorul caracterizării directe a autorului, fiind descrisă ca o femeie puternică și frumoasă.",
+                "portret_moral": "Se realizează evolutiv, prin acumulare de fapte. Reprezintă tipologia femeii justițiare, independente, care trăiește drama pierderii soțuilui.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Conservatorism",
+                        "value": "O secvență reprezentativă este momentul în care o ceartă pe Minodora pentru tendințele ei moderniste, spunând că „Nici eu nici bunică-mea n-am știut acestea, și-n legea noastră trebuie să trăiești și tu”."
+                    },
+                    {
+                        "trasatura": "Conservatorism",
+                        "value": "O altă secvență a firii conservative este cea în care ea decizia de a lua căutarea lui Nechifor în propriile mâini, nemaiasteptând demersurile autorităților. Astfel, Vitoria își arată scepticismul fața de noile oficialități si proceduri, dar și încrederea în propriile puteri."
+                    },
+                    {
+                        "trasatura": "Superstițioasă",
+                        "value": "Este credincioasă și superstițioasă, crezând și înțelegând unele semne și simboluri, care îi conduc existența. Are un vis în care îl vede pe Nechifor trecând o apă, stând cu spatele, și presupunând că i s-a întâmplat ceva, pleacă în căutarea acestuia."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
         "autor": "blaga",
@@ -1078,7 +1187,7 @@ ALLOPERE =
         "link": "",
         "specie": {
             "enabled": true,
-            "name": "Poerm de inspirație religioasă",
+            "name": "Poem de inspirație religioasă",
             "def": "",
             "trasaturi": [
                 {

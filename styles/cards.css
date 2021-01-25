@@ -92,12 +92,22 @@
 [tab='opere'] .card .top h2{
     margin: 0.5rem 0;
     font-weight: 400;
+    text-align: center;
+}
+[tab='opere'] .card .bottom h3{
+    font-size: 1.25rem;
+    text-align: center;
+}
+[tab='opere'] .card .bottom p{
+    font-size: 1rem;
+    text-align: center;
+}
+[tab='opere'] .card .bottom span.black{
+    font-size: 1.1rem;
 }
 [tab='opere'] .card .top h4{
     font-size: 1.25rem;
+    text-align: center;
     font-weight: 300;
     margin: 0.5rem 0;
-}
-[tab='opere'] .card .bottom h3{
-    font-size: 1rem;
 }
