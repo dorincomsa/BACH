@@ -901,6 +901,125 @@
         }
     },
     {
+        "name": "Enigma Otiliei",
+        "short": "enigma",
+        "autor": "George Călinescu",
+        "an_publicatie": 1938,
+        "volum": "",
+        "link": "",
+        "gen": "epic",
+        "specie": {
+            "enabled": false,
+            "name": "",
+            "def": "",
+            "trasaturi": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        },
+        "perioada": "interbelica",
+        "sursa_inspiratie": "",
+        "teme": {
+            "name": [
+                "viața burgheziei la începutul secolului XX", "iubirea", "lupta pentru avere", "destinul"
+            ],
+            "secvente": [
+                "O secvență reprezentativă a vieții burgheziei este momentul sosirii lui Felix la casa lui Costache Giurgiuveanu. Aici, Felix face cunoștiință cu membrii Pascalopol și cu mebrii familiei Tulea, surprinși jucând cărți și fumând, reprezentând un obicei pentru dânșii.",
+                "O altă secvență reprezentativă este masa festivă organizată de Iorgu, ca urmare a cumpărării restaurantului de la Costache, la care participă Felix, precum și alte personaje din clasa burgheziei."
+            ]
+        },
+        "curent": {
+            "enabled": true,
+            "short": "realism",
+            "name": "Realism",
+            "trasaturi": [
+                "Utilizarea unor repere spațiale și temporale exacte, având echivalente în realitate. De exemplu, ne este prezentată sosirea lui Felix în București, pe strada Antim, într-o seară de iulie din 1909. Alte repere spațiale sunt: Iași, Constanța, Paris.",
+                "O altă trăsătură este tipologia tipică a personajelor, aflate în împrejurări tipice. Felix reprezintă tipologia orfanului și a intelectualului superior, acesta fiind orfan de ambii părinți, aflat în grija unchiului său Costache. Se mută la București pentru a urma facultatea de Medicină. Alte tipologii reprezentative sunt: tipul avarului (Costache Giurgiuveanu), tipul demagogului( Stănică Rațiu), tipul burghezului(Leonida Pascalopol)."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Conflictul",
+                "value": "Un element de structură semnificativ este conflictul, între membrii familiei Tulea și Otilia Mărculescu, având la bază moștenirea averii lui Costache. Aglae Tulea dorește ca familia sa să fie singura care beneficiază de averea lui Costache, fapt pentru care începe să vadă în oricine un adversar, mai ales în Otilia, pe care o consideră o amenințare și un pericol ce trebuie neutralizat. La intențiile lui Costache de a o adopta pe Otilia, clanul Tulea îi trimite acestuia o scrisoare anonimă amenințătoare, prin care îl șantajează în a-și schimba decizia."
+            },
+            {
+                "name": "Relația incipit-final",
+                "value": "Un alt element reprezentativ este relația de similaritate dintre incipit și final. Atât incipitul cât și finalul îl suprind pe Felix, pe strada Antim, în fața casei lui Costache, prezentată ca fiind la fel de neîngrijită. Această asemănare între incipit și final conferă romanului un aspect ciclic."
+            },
+            {
+                "name": "Pluriperspectivismul",
+                "value": "Pluriperspectivismul este reprezentat de caracterizarea Otiliei, făcută din perspectiva celorlalte personaje. Aglae și familia Tulea o văd pe Otilia ca fiind o dezmățată, Pascalopol o vede ca o domnișoară firavă și inocentă, iar Felix o vede ca o fire complexă, neputând să o înțeleagă pe deplin."
+            }
+        ],
+        "roman": {
+            "problematica": ["balzacian","realist", "obiectiv", "citadin"],
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "structura": "Este de dimensiuni mare, fiind împărțit în 20 de capitole.",
+            "personaje": [
+                {
+                    "name": "Costache Giurgiuveanu",
+                    "about": "Unchiul lui Felix și tatăl vitreg al Otiliei. Reprezintă tipologia avarului."
+                },
+                {
+                    "name": "Felix Sima",
+                    "about": "Se mută în casa lui Costache Giurgiuveanu capitală pentru a studia la facultatea de Medicină. Reprezintă tipologia orfanului și al intelectualului superior."
+                },
+                {
+                    "name": "Otilia Mărculescu",
+                    "about": "Fata celei de a doua soții a lui Costache. Reprezintă tipologia eternului feminin."
+                },
+                {
+                    "name": "Leonida Pascalopol",
+                    "about": "Prieten al lui Costache și al Otiliei. Reprezintă tipologia burghezului rafinat."
+                },
+                {
+                    "name": "Aglae Tulea",
+                    "about": "Sora lui Costache și mamă a trei copii. Reprezintă tipologia babei fără cusur în rău."
+                },
+                {
+                    "name": "Stănică Rațiu",
+                    "about": "Ginerele Aglaei, urmărindu-și interesele prin orice mijloace. Reprezintă tipologia parvenitului, arivistului și a demagogului."
+                },
+                {
+                    "name": "Alte personaje",
+                    "about": "Titi, Aurica și Olimpia Tulea, Weissmann"
+                }
+            ],
+            "timp": "Acțiunea începe în iulie 1909 și se desfășoară pe o perioadă de câțiva ani.",
+            "spatiu": "București, strada Antim, în casa lui Costache Giurgiuveanu.",
+            "rezumat": {
+                "expozitiune": "Surprinde sosirea lui Felix Sima la București, pentru a urma facultatea de Medicină. Acesta sosește la casa unchiul său, Costache Giurgiuveanu, de pe strada Antim, într-o seară de iulie din 1909. Felix face cunosțiință cu celelalte personaje: Costache, Otilia, Aglae și Pascalopol. ",
+                "intriga": "Constă în lupta pentru moștenirea averii lui Costache Giurgiuveanu, odată cu apariția în casa acestuia a lui Felix.",
+                "desfasurarea_actiunii": "Surprinde mai multe planuri narative: drumul lui Felix în cariera sa de medic, dezvoltarea relației dintre Felix și Otilia, conflictul dintre Felix și Pascalopol pentru Otilia, și cel mai important, conflictul pentru averea lui Costache.",
+                "punctul_culminant": "Surprinde momentul în care Costache, căzut la pat, este jefuit de Stănică Rațiu. Aceast fapt îi cauzează acestuia un atac de cord, care îl ucide.",
+                "deznodamant": "Surprinde încheierea conflictelor: Aglae moștenește averea lui Costache, Otilia se căsătorește cu Pascalopol și pleacă la Paris, iar Felix devine un prestigios medic, având mult succes în cariera sa."
+            },
+            "caracterizare": {
+                "personaj": "Costache Giurgiuveanu",
+                "context": "Personaj central, al cărui acțiuni influențează destinele celorlalte personaje.",
+                "statut_social": "Este un deținător de proprietăți întărit din București. O are în grijă pe Otilia, fata celei de a doua sale soții, însă pe care nu o adoptă, și este tutorele legal al lui Felix.",
+                "portret_fizic": "Este descris ca „un omuleț subțire și puțin încovoiat. Capul îi era atins de o calviție totală, și fața părea aproape spână.”",
+                "portret_moral": "Se realizează cu ajutorul caracterizării indirecte, prin intermediul faptelor și al relațiilor cu celelalte personaje. Reprezintă tipologia avarului, exprimând un constant refuz față de cheltuirea banilor.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Avariția",
+                        "value": "O secvență reprezentativă este discuția sa cu Pascalopol referitoare la moștenirea pentru Otilia. Costache pusese deoparte 300.000 de lei pentru ea, însă ezită să facă lucrurile oficiale și să-i pună la bancă, luând decizia să-i țină asupra sa. Nu dorește să renunțe la bani nici pentru a-i pune la banca, fapt pentru care, în final, îi vor fi jefuiți."
+                    },
+                    {
+                        "trasatura": "Avariția",
+                        "value": "Reprezentativ pentru avariția sa este chiar refuzul de a cheltuii banii în orice fel. De exmeplu, acesa locuiește într-o casă mare, frumoasă, însă neîngrijită, necheltuind niciun ban pentru reabilitarea ei. De asemenea, se decide să îi construiască o casă Otiliei, însă dorește să folosească materiale ieftine, obținute din demolări, iar planul casei îl face singur."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "name": "Eu nu strivesc corola de minuni a lumii",
         "short": "corola",
         "autor": "blaga",

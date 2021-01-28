@@ -1,6 +1,9 @@
 let NAV = `<nav id="nav">
     <style>
         #nav{
+            position: sticky;
+            top:0;
+            z-index: 6;
             width: 100%;
             padding: 0.75rem;
             background-color: var(--yellow);
