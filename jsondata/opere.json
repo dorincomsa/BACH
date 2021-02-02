@@ -10,7 +10,7 @@
         "specie": {
             "enabled": true,
             "name": "Nuvelă",
-            "def": "",
+            "def": "Specie a genlui epic în proză, de dimensiuni medii, având un singur fir narativ și o acțiune complexă, în desfășurarea căreia sunt antrenate un număr redus de personaje.",
             "trasaturi": [
                 {
                     "name": "",
@@ -52,7 +52,7 @@
             "problematica": [
                 "istorică"
             ],
-            "perspectiva_narativa": "Este obiectivă cu focalizare zero.",
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
             "structura": "Nuvela este de dimensiuni medii, alcătuită din patru capitole, fiecare având ca titlu o secvență reprezentativă din acel capitol.",
             "personaje": [
                 {
@@ -95,6 +95,119 @@
                     {
                         "trasatura": "Viclenia",
                         "value": "Acesta este viclean și diplomat, fiind un maestru al disimulării. Aceste trăsături sunt evidențiate în momentul discursului său despre pace și iertare adresat boierilor, urmând ca în aceeași zi, la ospăț, să îi omoare pe toți."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "Moara cu noroc",
+        "short": "moara",
+        "autor": "slavici",
+        "an_publicatie": 1881,
+        "volum": "Nuvele din popor",
+        "link": "",
+        "gen": "epic",
+        "specie": {
+            "enabled": true,
+            "name": "Nuvelă",
+            "def": "Specie a genlui epic în proză, de dimensiuni medii, având un singur fir narativ și o acțiune complexă, în desfășurarea căreia sunt antrenate un număr redus de personaje.",
+            "trasaturi": [
+                {
+                    "name": "Dimensiuni medii",
+                    "value": "Nuvela este alcătuită din 17 capitole, cu un singur fir narativ, bine structurat pe momentele subiectului: []"
+                },
+                {
+                    "name": "Intriga",
+                    "value": "Este riguros organizată și determină conflicte puternice. Suprinde momentul apariției lui Lică la han, precum și întâlnirea sa cu Ghiță. Intriga determină conflicte puternice: de natură exterioară, socială, între Ghiță și Lică și între Lică și Pintea, dar și de natură interioară, Ghiță pendulând între a fi un om cinstit și a lua parte la fărădelegile lui Lică."
+                },
+                {
+                    "name": "Personaj tipic în împrejurări tipice",
+                    "value": "Acțiunea se concentrează în jurul unui singur personaj, cu scopul de a-l individualiza. Ghiță este personaj complex, evolutiv. Acesta este un om cinstit și onest, însă apariția lui Lică în viața sa îl transormă într-o persoană lacomă, impulsivă și violenta, culminând cu comiterea de crimă."
+                },
+                {
+                    "name":"Tema",
+                    "value":"Tema este de natură psihologică, reprezentată de tema dezumanirării cauzate de obsesia banului și goana după avere."
+                }
+            ]
+        },
+        "perioada": "marilor_clasici",
+        "sursa_inspiratie": "",
+        "teme": {
+            "name": ["dezumanizarea cauzată de obsesia banului", "destinul"],
+            "secvente": [
+                "O sevență reprezentativă a temei dezumanizării cauzate de obsesia banului este scena în care Ghiță depune mărturie mincinoasă la judecată. Acesta face acest lucru pentru a-i scăpa pe oamenii lui Lică, nedorind să strice relația cu omul care îi asigură un asemenea venit.",
+                "O altă secvență reprezentativă este chiar punctul culminant al nuvelei și surprinde momentul în care Ghiță o înjunghie pe Ana. Întovărășirea lui Ghiță cu Sămădăul și implicarea în afacerile sale a dus la destrămarea familiei lui Ghiță, stricând relația cu Ana, pierderea încrederii și chiar producerea unor sentimente de ură, care au conzluzionat prin producerea actului criminal."
+            ]
+        },
+        "curent": {
+            "enabled": true,
+            "short": "realism",
+            "name": "Realism",
+            "trasaturi": [
+                "Oglindirea veridică a realității, prin conturarea relației omului cu mediul care îl înconjoară. Ghiță devine conștient că statutul său social nu îl mulțumește, fapt pentru care ia în arenda „Moara cu noroc”, făcând cunoștiință cu o nouă societate, a afacerilor, care îl dezumanizează.",
+                "Personaj tipic în împrejurări tipice. Ghiță reprezintă tipologia individului dornic de a se îmbogăți, fiind inițial un om cinstit și onest, însă apariția lui Lică în viața sa îl transormă într-o persoană lacomă, impulsivă și violenta, culminând chiar cu ucideriea propriei sale soții."
+            ]
+        },
+        "elemente": [
+            {
+                "name": "Limbajul",
+                "value": "Acesta oglindește atât epoca, cât și contextul spațial al acțiunii, apelând la un limbaj evidențiat prin regionalisme și expresii populare ce evidențiază spațiul rural („mi s-a pus ceva de-a curmezișa în cap”, „te duc la spânzurătoare”, „să grăiesc o vorbă”, „muiere”)"
+            },
+            {
+                "name": "Finalul",
+                "value": "Acesta corespunde epilogului și ilustrează un principiu de viață, redat prin vorbele bătrânei: „Știam eu că n-are să iasă bine, dar așa le-a fost dat.”. Astfel, fără să știe ce s-a întâmplat la „Moara cu noroc”, aceasta preferă să accepte ideea că soarta este vinovată de sfârșitul tragic al fiicei și al ginerelui și nu ignoranța manifestată de Ghiță. De altfel, finalul înscrie nuvela în categoria tragicului, prin îndrăzneala personajelor de a înfrunta destinul, un destin care din punctul de vedere al bătrânei nu poate fi schimbat."
+            }
+        ],
+        "roman": {
+            "problematica": ["psihologică","realistă"],
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
+            "structura": "Alcătuită din 17 capitole, prezentând o relație de simetrie între incipit și final.",
+            "personaje": [
+                {
+                    "name": "Ghiță",
+                    "about": "Fost cizmar care ia în arendă cârciuma de la „Moara cu noroc”, din dorința de a asigura un trai mai bun familiei sale. Se împrietenește cu Lică, luând parte la fărădelegile sale."
+                },
+                {
+                    "name": "Ana",
+                    "about": "Soția lui Ghiță. Se întrăinează din cauza relației dintre el și Lică."
+                },
+                {
+                    "name": "Lică Sămădăul",
+                    "about": "Șef al porcarilor, implicat în unele afaceri ilegale."
+                },
+                {
+                    "name": "Pintea",
+                    "about": "Jandarm care se asociază cu Ghiță pentru a-l prinde pe Lică."
+                },
+                {
+                    "name": "Alte personaje",
+                    "about": "soara lui Ghiță, copiii acestora"
+                }
+            ],
+            "timp": "Sunt evidențiate prin repere religioase: Sf. Gheorghe, sărbătorile de Paști(de anul următor).",
+            "spatiu": "La Moara cu noroc, Ineu, Arad.",
+            "rezumat": {
+                "expozitiune": "Prezintă împrejurările în care Ghiță, fost cizmar, se mută la Moara cu noroc împreună cu familia, pentru a asigura un trai mai bun.",
+                "intriga": "Apariția lui Lică, șef al porcarilor implicat în unele afaceri ilegale, și întovorășirea lui Ghiță cu acesta.",
+                "desfasurarea_actiunii": "Urmărește conflictul dintre Ghiță și Lică, acesta dorind să pună capăt fărădelegilor lui Lică, fapt pentru care se asociază cu jandarmul Pintea. Conflictul interior al lui Ghiță suprinde oscilarea acestuia între a fi om cinstit și a se îmbogăți prin intermediul lui Lică.",
+                "punctul_culminant": "Surprinde planul de răzbunare a lui Ghiță și Pintea: dorind să-l prindă pe Lică cu banii furați, dar și momentul de furie de după eșec, în care o ucide pe Ana și este împușcat de Lică.",
+                "deznodamant": "Surprinde plecarea de la han a soacrei lui Ghiță cu copiii acestuia."
+            },
+            "caracterizare": {
+                "personaj": "Ghiță",
+                "context": "Personaj principal, dinamic și complex, surprins în evoluție.",
+                "statut_social": "Fost cizmar care ia în arendă cârciuma de la „Moara cu noroc”, din dorința de a asigura un trai mai bun familiei sale.",
+                "portret_fizic": "Este sumar, redus la o singură descriere de către narator: „înalt și spătos”.",
+                "portret_moral": "Se constituie pe baza acumulărilor succesive de informații. Este alcătuit din trăsături contradictorii, datorate evoluței personajului în raport cu dezvoltarea acțiunii. Ghiță reprezintă tipologia individului dornic de îmbogățire.",
+                "trasaturi_morale": [
+                    {
+                        "trasatura": "Lăcomia",
+                        "value": "Reprezentativă pentru această trăsătură este întovărășirea acestuia cu Lică Sămădăul, luând indirect parte la fărădelegile lui, și dezvoltând o mare poftă de avere, însă și frica de o pierde."
+                    },
+                    {
+                        "trasatura": "Lăcomia",
+                        "value": "O altă secvență reprezentativă este secvența număratului banilor, în care Ghiță este pregătit să ascundă imediat banii în momentul apariției cuiva. În această secvență este vizibilă avariția și lăcomia acetuia, număratul excesiv al banilor reprezentând un obicei ce denotă setea de avere."
                     }
                 ]
             }
@@ -844,7 +957,7 @@
         ],
         "roman": {
             "problematica": ["realist","tradițional","obiectiv","monografic","mitic și simbolic"],
-            "perspectiva_narativa": "obiectivă cu focalizare zero",
+            "perspectiva_narativa": "Obiectivă cu focalizare zero",
             "structura": "Subiectul se constituie cronologic, acțiunea este relativ simplă și prezintă un singur fir narativ, remarcându-se tehnica înlănțuirii.",
             "personaje": [
                 {
