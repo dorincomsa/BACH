@@ -45,7 +45,7 @@
  [tab] .card .bottom a{
      cursor: pointer;
  }
- [tab] .card:hover .top{
+[tab] .card:hover .top{
      top: -50%;
  }
  [tab] .card:hover .bottom{

@@ -1,6 +1,6 @@
 
 //LOAD CURENTE
-window.addEventListener('DOMContentLoaded', loadCurenteCards)
+window.addEventListener('DOMContentLoaded', loadOpereCards)
 
 var curenteBTN = document.querySelector('[option=curente]')
 curenteBTN.addEventListener('click', loadCurenteCards)
@@ -27,7 +27,7 @@ function renderCurentCard(curent) {
     let curentCard =
         `
     <div class="card flex-column">
-        <div class="top flex-row" style="background-color: var(--${curent.short})">
+        <div class="top flex-row" style="background-color: var(--${curent.short})" onclick="changeView(renderCurentView('${curent.short}'),'curente')">
             <h2 class="tit" style="color: ${curent.titlecolor}">${curent.name}</h2>
         </div>
         <div class="bottom flex-column">
@@ -114,7 +114,7 @@ function renderAutorCard(autor) {
     let autorCard =
         `
     <div class="card flex-column">
-        <div class="top flex-row" style="background-color: var(--white)" >
+        <div class="top flex-row" style="background-color: var(--white)" onclick="changeView(renderAutorView('${autor.short}'),'autori')">
             <div class="image fullbox" style="background-image: url('res/images/${autor.short}.png')"> </div>
             <div class="overlay" style="background-color: var(--${autor.perioada})"></div>
             <h2 class="tit" >${autor.name}</h2>
@@ -185,7 +185,7 @@ function renderOperaCard(opera) {
     let operaCard =
         `
     <div class="card flex-column">
-        <div class="top flex-column" style="background-color: var(--${opera.curent.short})">
+        <div class="top flex-column" style="background-color: var(--${opera.curent.short})" onclick="changeView(renderOperaView('${opera.short}'),'opere')">
             <h2 class="tit" style="color: ${opera.perioada.titlecolor}">${opera.name}</h2>
             <h4 style="color: ${opera.perioada.titlecolor}">de ${opera.autor.name}</h4>
         </div>

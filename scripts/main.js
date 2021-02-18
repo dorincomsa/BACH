@@ -6,6 +6,7 @@ window.addEventListener('DOMContentLoaded',function(){
 
     let header = document.querySelector('header')
     header.style.opacity=0;
+    
     setTimeout(function(){
         header.style.display= 'none'
     },1500)
