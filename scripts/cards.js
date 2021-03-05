@@ -25,7 +25,9 @@ async function loadCurenteCards() {
 
 function redirectCurent(curent_short){
     sessionStorage.setItem('curent_short', curent_short)
-    window.location.href="./views/curent.html"
+    let url = window.location.href
+    url += "views/curent.html"
+    window.location.href = url
 }
 function renderCurentCard(curent) {
 
@@ -107,7 +109,9 @@ async function loadAutoriCards() {
 }
 function redirectAutor(autor_short){
     sessionStorage.setItem('autor_short', autor_short)
-    window.location.href="./views/autor.html"
+    let url = window.location.href
+    url += "views/autor.html"
+    window.location.href = url
 }
 function renderAutorCard(autor) {
     let autorCard =
@@ -178,7 +182,9 @@ function loadOpereCards() {
 }
 function redirectOpera(opera_short){
     sessionStorage.setItem('opera_short', opera_short)
-    window.location.href="./views/opera.html"
+    let url = window.location.href
+    url += "views/opera.html"
+    window.location.href = url
 }
 function renderOperaCard(opera) {
     let operaCard =
