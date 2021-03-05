@@ -45,9 +45,6 @@ function renderCurentView(curentshort) {
         <div class="autori flex-row">
             ${autori}
         </div>
-
-        <a class="back" href="/">Go back</a>
     </main>`
-    
     return BODY;
 }

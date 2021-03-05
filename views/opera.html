@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/root.css">
+    <link rel="stylesheet" href="../styles/opere.css">
+    <link rel="shortcut icon" href="/res/UI/favicon.ico" type="image/x-icon">
+    <title>Opera</title>
+</head>
+<body>
+    Te iubesc!
+</body>
+<script src="../data/opere.js"></script>
+<script src="../data/autori.js"></script>
+<script src="../data/curente.js"></script>
+<script src="../data/perioade.js"></script>
+<script src="operaView.js"></script>
+<script src="partials/nav.js"></script>
+<script src="partials/footer.js"></script>
+<script src="/scripts/opereScript.js"></script>
+
+<script defer>
+    let body = document.querySelector('body')
+    let short = sessionStorage.getItem('opera_short')
+    if(short == undefined)short = 'plumb'
+
+    document.querySelector('title').innerText="Bachelper by Dorin"
+
+    body.innerHTML=renderOperaView(short)
+    body.insertAdjacentHTML("afterbegin",NAV)
+    body.insertAdjacentHTML("beforeend",FOOTER)
+
+    
+</script>
+</html>

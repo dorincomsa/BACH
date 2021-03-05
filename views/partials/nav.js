@@ -10,6 +10,7 @@ let NAV = `<nav id="nav">
             display: flex;
             justify-content: space-between;
             aling-items: center;
+            color: var(--black);
         }
         #nav a{
             text-decoration: none;
@@ -32,13 +33,17 @@ let NAV = `<nav id="nav">
             font-size: 1.66rem;
             color: var(--black);
         }
+        #nav .version{
+            font-size: 1.4rem;
+            margin-left: 0.75rem;
+        }
         #nav h4{
             display:flex;
             align-items: center;
         }
     </style>
-    <a href="">
-        <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span>
+    <a href="/">
+        <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span><span class="version">V 1.3</span>
     </a>
     <h4>dorin va iubeste</h4>
 </nav>`

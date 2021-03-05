@@ -837,7 +837,7 @@ ALLOPERE =
             "name": "Modernism",
             "trasaturi": [
                 "O trăsătură a apartenenței la modernism este tema specifică dezvoltată. Aceasta este condiția intelectualului în raport cu experiența iubirii și a războiului. ",
-                "O altă trăsătură este construcția specifică a subiectului și a utilizarea tehnicilor narative specifice. Acțiunea este discontinuă, marcată prin acronie și prin utilizarea tehnicii inserței, naratorul povestind despre viața sa cu doi ani înainte."
+                "O altă trăsătură este construcția specifică a subiectului și utilizarea tehnicilor narative specifice. Acțiunea este discontinuă, marcată prin acronie și prin utilizarea tehnicii inserței, naratorul povestind despre viața sa cu doi ani înainte."
             ]
         },
         "elemente": [

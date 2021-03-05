@@ -61,19 +61,19 @@ menuButtons.forEach(menuButton=>{
     })
 })
 
-//CHANGE VIEW
-function changeView(renderedView,short){
-    document.body.innerHTML = renderedView
-    document.getElementById('viewcss').href=`styles/${short}.css`
+// //CHANGE VIEW
+// function changeView(renderedView,short){
+//     document.body.innerHTML = renderedView
+//     document.getElementById('viewcss').href=`styles/${short}.css`
     
-    document.body.insertAdjacentHTML('beforeend',FOOTER)
-    document.body.insertAdjacentHTML('afterbegin',NAV)
+//     document.body.insertAdjacentHTML('beforeend',FOOTER)
+//     document.body.insertAdjacentHTML('afterbegin',NAV)
     
-    let head= document.getElementsByTagName('head')[0];
-    let script= document.createElement('script');
-    script.src= `scripts/${short}Script.js`;
+//     let head= document.getElementsByTagName('head')[0];
+//     let script= document.createElement('script');
+//     script.src= `scripts/${short}Script.js`;
 
-    head.appendChild(script);
+//     head.appendChild(script);
 
-    window.scrollTo(0,0)
-}
+//     window.scrollTo(0,0)
+// }

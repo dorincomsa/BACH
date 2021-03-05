@@ -27,6 +27,8 @@ main{
     position: relative;
     height: 2rem;
     width: 2rem;
+    min-height: 2rem;
+    min-width: 2rem;
     margin-right: 0 1rem;
     display: flex;
     justify-content: center;
@@ -71,7 +73,7 @@ div.grid >*{
     padding: 1.25rem 0.5rem;
     overflow-x: auto;
 }
-div.grid >p{
+div.grid >p,  div.grid > h3{
     border: 1px solid lightgray;
     white-space: pre-line;
     display: flex;

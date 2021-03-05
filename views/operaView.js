@@ -10,7 +10,7 @@ function renderOperaView(operashort) {
     })
     ALLPERIOADE.forEach(oneperioada => {
         if(opera.perioada == oneperioada.short)
-            opera.perioada = perioada
+            opera.perioada = oneperioada
     })
     ALLCURENTE.forEach(onecurent =>{
         if(opera.curent.short == onecurent.short){
@@ -65,8 +65,8 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Proză</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -88,8 +88,8 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Personaje</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -101,8 +101,8 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Rezumat</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -129,8 +129,8 @@ function renderOperaView(operashort) {
                     <h2 class="subtitle">Caracterizarea lui ${opera.roman.caracterizare.personaj}</h2>
                 </div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -159,8 +159,8 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Elemente de versificație</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -202,8 +202,8 @@ function renderOperaView(operashort) {
                 <div class="w100 header flex-row">
                     <div><h2 class="subtitle">Elemente lirice</h2></div>
                     <div class="hide-package" onclick="togglePackage(this)">
-                        <img class="vertical" src="res/UI/line.svg" alt="">
-                        <img class="horizontal" src="res/UI/line.svg" alt="">
+                        <img class="vertical" src="/res/UI/line.svg" alt="">
+                        <img class="horizontal" src="/res/UI/line.svg" alt="">
                     </div>
                 </div>
                 <div class="grid">
@@ -247,8 +247,8 @@ function renderOperaView(operashort) {
                 <div class="w100 header flex-row">
                     <div><h2 class="subtitle">Descriere</h2></div>
                     <div class="hide-package" onclick="togglePackage(this)">
-                        <img class="vertical" src="res/UI/line.svg" alt="">
-                        <img class="horizontal" src="res/UI/line.svg" alt="">
+                        <img class="vertical" src="/res/UI/line.svg" alt="">
+                        <img class="horizontal" src="/res/UI/line.svg" alt="">
                     </div>
                 </div>
 
@@ -280,8 +280,8 @@ function renderOperaView(operashort) {
                     <div class="w100 header flex-row">
                         <div><h2 class="subtitle">Apartenența la curent: ${opera.curent.name}</h2></div>
                         <div class="hide-package" onclick="togglePackage(this)">
-                            <img class="vertical" src="res/UI/line.svg" alt="">
-                            <img class="horizontal" src="res/UI/line.svg" alt="">
+                            <img class="vertical" src="/res/UI/line.svg" alt="">
+                            <img class="horizontal" src="/res/UI/line.svg" alt="">
                         </div>
                     </div>
                     <div class="grid">
@@ -301,8 +301,8 @@ function renderOperaView(operashort) {
                     <div class="w100 header flex-row">
                         <div><h2 class="subtitle">Apartenența la specie: ${opera.specie.name}</h2></div>
                         <div class="hide-package" onclick="togglePackage(this)">
-                            <img class="vertical" src="res/UI/line.svg" alt="">
-                            <img class="horizontal" src="res/UI/line.svg" alt="">
+                            <img class="vertical" src="/res/UI/line.svg" alt="">
+                            <img class="horizontal" src="/res/UI/line.svg" alt="">
                         </div>
                     </div>
                     <div class="grid">
@@ -317,8 +317,8 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Teme</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="res/UI/line.svg" alt="">
-                    <img class="horizontal" src="res/UI/line.svg" alt="">
+                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="horizontal" src="/res/UI/line.svg" alt="">
                 </div>
             </div>
             <div class="grid">
@@ -335,8 +335,8 @@ function renderOperaView(operashort) {
                 <div class="w100 header flex-row">
                     <div><h2 class="subtitle">Elemente reprezentative</h2></div>
                     <div class="hide-package" onclick="togglePackage(this)">
-                        <img class="vertical" src="res/UI/line.svg" alt="">
-                        <img class="horizontal" src="res/UI/line.svg" alt="">
+                        <img class="vertical" src="/res/UI/line.svg" alt="">
+                        <img class="horizontal" src="/res/UI/line.svg" alt="">
                     </div>
                 </div>
                 <div class="grid">
