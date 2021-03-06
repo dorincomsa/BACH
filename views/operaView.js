@@ -88,7 +88,7 @@ function renderOperaView(operashort) {
             <div class="w100 header flex-row">
                 <div><h2 class="subtitle">Personaje</h2></div>
                 <div class="hide-package" onclick="togglePackage(this)">
-                    <img class="vertical" src="/res/UI/line.svg" alt="">
+                    <img class="vertical" src="../res/UI/line.svg" alt="">
                     <img class="horizontal" src="../res/UI/line.svg" alt="">
                 </div>
             </div>
