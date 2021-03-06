@@ -16,7 +16,7 @@ function renderAutorView(autorshort){
     <main>
         <div class="top flex-row">
             <div class="flex-column img">
-                <img src="/res/images/${autor.short}.png" alt="${autor.name}">
+                <img src="../res/images/${autor.short}.png" alt="${autor.name}">
             </div>
             <div class="flex-column title">
                 <div class="flex-column">
