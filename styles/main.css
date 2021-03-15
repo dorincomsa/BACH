@@ -107,6 +107,9 @@ main.flex-row{
 .menu .close{
     display: none;
 }
+.menu .coffee a{
+    text-decoration: none;
+}
 .container{
     flex: 1;
     width: 75%;
