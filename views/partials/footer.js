@@ -5,6 +5,7 @@ let FOOTER = `
             background-color: var(--black);
             width: 100%;
             min-height: 15rem;
+            padding: 2rem 0;
         }
         footer.flex-row div{
             color: var(--white);
@@ -12,7 +13,7 @@ let FOOTER = `
             justify-content: flex-start;
         }
         footer h3{
-            margin-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
             font-size: 1.5rem;
         }
         footer a{
@@ -29,18 +30,17 @@ let FOOTER = `
         }
         
     </style>
+    
     <div class="flex-column">
-        <h3>Links</h3>
-        <a>Autori</a>
-        <a>Curente</a>
-        <a>Perioade</a>
-        <a>Opere</a>
-    </div>
-    <div class="flex-column">
-        <h3>Info</h3>
-        <a>Home</a>
-        <a>About</a>
-        <a>Contact</a>
-        <a>TOS</a>
+        <h3>Follow Me</h3>
+        <a>Facebook : Comsa Dorin </a>
+        <a>Instagram : comsa.dorin</a>
+        <a>Snapchat : dorin.jdv</a>
+        <a>Reddit : dorinishere</a>
+        <a>TikTok : dorinishere</a>
+        <a>Discord : Doreen#1478 </a>
+        <a>Paypal : comsaiuliand@gmail.com </a>
+        <a>Cont bancar RON: RO54BTRLRONCRT0420971701</a>
+        <a>Cont bancar EUR: RO53BTRLEURCRT5857125769</a>
     </div>
 </footer>`

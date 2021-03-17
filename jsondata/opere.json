@@ -486,18 +486,23 @@
                 "lupta pentru putere",
                 "societatea"
             ],
-            "secvente": []
+            "secvente": [
+                "SA-MI AMINTESTI SA REFAC OPERA"
+            ]
         },
         "curent": {
-            "enabled": false,
+            "enabled": true,
             "short": "realism",
-            "name": "",
-            "trasaturi": []
+            "name": "Realism",
+            "trasaturi": [
+                "",
+                ""
+            ]
         },
         "elemente": [
             {
                 "name": "Titlul",
-                "value": "Are rol în a anticipa conflictul dramatic, scrisoarea Zoei reprezentând „mărul discordiei”, fiind "
+                "value": "Are rol în a anticipa conflictul dramatic, scrisoarea pierdută de Zoe reprezentă „mărul discordiei”, fiind "
             },
             {
                 "name": "Conflicte",
@@ -1016,7 +1021,7 @@
     {
         "name": "Enigma Otiliei",
         "short": "enigma",
-        "autor": "George Călinescu",
+        "autor": "calinescu",
         "an_publicatie": 1938,
         "volum": "",
         "link": "",

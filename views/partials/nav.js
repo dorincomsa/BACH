@@ -43,7 +43,7 @@ let NAV = `<nav id="nav">
         }
     </style>
     <a href="../">
-        <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span><span class="version">V 1.3</span>
+        <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span><span class="version">V 1.4</span>
     </a>
     <h4>Dorin va iubeste</h4>
 </nav>`

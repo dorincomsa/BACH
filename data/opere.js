@@ -1017,7 +1017,7 @@ ALLOPERE =
     {
         "name": "Enigma Otiliei",
         "short": "enigma",
-        "autor": "George Călinescu",
+        "autor": "calinescu",
         "an_publicatie": 1938,
         "volum": "",
         "link": "",

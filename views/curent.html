@@ -23,7 +23,9 @@
 <script defer>
     let body = document.querySelector('body')
     let short = sessionStorage.getItem('curent_short')
-    if(short==undefined)short = "realism"
+    if(short==undefined){
+        window.location.href="../"
+    }
     
     document.querySelector('title').innerText="Bachelper by Dorin"
 
