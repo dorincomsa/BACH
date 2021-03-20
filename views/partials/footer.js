@@ -32,15 +32,6 @@ let FOOTER = `
     </style>
     
     <div class="flex-column">
-        <h3>Follow Me</h3>
-        <a>Facebook : Comsa Dorin </a>
-        <a>Instagram : comsa.dorin</a>
-        <a>Snapchat : dorin.jdv</a>
-        <a>Reddit : dorinishere</a>
-        <a>TikTok : dorinishere</a>
-        <a>Discord : Doreen#1478 </a>
-        <a>Paypal : comsaiuliand@gmail.com </a>
-        <a>Cont bancar RON: RO54BTRLRONCRT0420971701</a>
-        <a>Cont bancar EUR: RO53BTRLEURCRT5857125769</a>
+        <h3>@ Dorin</h3>
     </div>
 </footer>`
