@@ -1,5 +1,4 @@
-ALLOPERE =
-[
+ALLOPERE = [
     {
         "name": "Alexandru Lăpușneanul",
         "short": "lapusneanul",
@@ -127,15 +126,18 @@ ALLOPERE =
                     "value": "Acțiunea se concentrează în jurul unui singur personaj, cu scopul de a-l individualiza. Ghiță este personaj complex, evolutiv. Acesta este un om cinstit și onest, însă apariția lui Lică în viața sa îl transormă într-o persoană lacomă, impulsivă și violenta, culminând cu comiterea de crimă."
                 },
                 {
-                    "name":"Tema",
-                    "value":"Tema este de natură psihologică, reprezentată de tema dezumanirării cauzate de obsesia banului și goana după avere."
+                    "name": "Tema",
+                    "value": "Tema este de natură psihologică, reprezentată de tema dezumanirării cauzate de obsesia banului și goana după avere."
                 }
             ]
         },
         "perioada": "marilor_clasici",
         "sursa_inspiratie": "",
         "teme": {
-            "name": ["dezumanizarea cauzată de obsesia banului", "destinul"],
+            "name": [
+                "dezumanizarea cauzată de obsesia banului",
+                "destinul"
+            ],
             "secvente": [
                 "O sevență reprezentativă a temei dezumanizării cauzate de obsesia banului este scena în care Ghiță depune mărturie mincinoasă la judecată. Acesta face acest lucru pentru a-i scăpa pe oamenii lui Lică, nedorind să strice relația cu omul care îi asigură un asemenea venit.",
                 "O altă secvență reprezentativă este chiar punctul culminant al nuvelei și surprinde momentul în care Ghiță o înjunghie pe Ana. Întovărășirea lui Ghiță cu Sămădăul și implicarea în afacerile sale a dus la destrămarea familiei lui Ghiță, stricând relația cu Ana, pierderea încrederii și chiar producerea unor sentimente de ură, care au conzluzionat prin producerea actului criminal."
@@ -161,7 +163,10 @@ ALLOPERE =
             }
         ],
         "roman": {
-            "problematica": ["psihologică","realistă"],
+            "problematica": [
+                "psihologică",
+                "realistă"
+            ],
             "perspectiva_narativa": "Obiectivă cu focalizare zero",
             "structura": "Alcătuită din 17 capitole, prezentând o relație de simetrie între incipit și final.",
             "personaje": [
@@ -330,15 +335,27 @@ ALLOPERE =
         "specie": {
             "enabled": true,
             "name": "Basm cult",
-            "def": "",
+            "def": "Basmul este o specie a genului epic în proză, de dimensiuni medii, în care sunt prezentate personaje reprezentând simboluri ale Binelui și ale Răului, și presupune intervenția unui plan fantastic.",
             "trasaturi": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "Tema specifică",
+                    "value": "Tema este specifică basmului. Aceasta este victoria Binelui asupra Răului și este susținută de motive narative specifice: motivul superiorității mezinului, motivul călătoriei inițiatice, motivul probelor, motivul ajutoarelor etc."
                 },
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "Structură compozițională",
+                    "value": "Textul prezintă o structură compozițională specifică, fiind utilizate formule inițiale: „Amu cică era odată într-o țară un crai”, formule mediane: „Dumnezeu să ne ție că cuvântul din poveste înainte mult mai este” și formule finale: „Și a ținut veselia ani întregi, și acum mai ține încă”."
+                },
+                {
+                    "name": "Elemente fantastice",
+                    "value": "Se remarcă intervenția elementului fantastic prin personaje fantastice: Gerilă, Ochilă, Setilă, obiecte magice: smicelele, apă vie, apă moartă și situații fantastice: zborul până la nori a lui Harap-Alb pe calul său, readucerea la viață a lui Harap-Alb de către fata de împărat."
+                },
+                {
+                    "name": "Caracterul cult",
+                    "value": "Caracterul cult reiese din faptul că textul are un autor cunoscut: Ion Creangă, și are o singură variantă, publicată în revista „Convorbiri literare”."
+                },
+                {
+                    "name": "Caracterul cult",
+                    "value": "Reiese și din umanizarea fantasticului. Personajele se comportă, vorbesc și au mentalitatea unor oameni simpli de la țară, iar personajul principal este puternic umanizat în comparație cu eroii altor basme. Harap-Alb prezintă trăsături negative precum naivitatea și impulsivitatea, neascultând de sfatul părintesc."
                 }
             ]
         },
@@ -355,9 +372,9 @@ ALLOPERE =
         },
         "curent": {
             "short": "romantism",
-            "name": "Rom",
+            "name": "Romantism",
             "trasaturi": [
-                "O trăsătura este evadarea în trecutul idealizat sau spații fantastice, acțiunea având loc într-un trecut idepărtat.",
+                "O trăsătura a apartenenței la romantism este evadarea în trecutul idealizat sau spații fantastice. Acțiunea se petrece într-un trecut îndepărtat, însă datorită caracterului cult al basmului, sunt prezentate locuri cât se poate de obișnuite. Printre acestea se numără păduri, râuri, poteci, etc.",
                 "O altă trăsătură este utilizarea antitezei ca procedeu artistic de bază. Aceasta  se realizează între Harap-Alb, simbol al Binelui, și Spânul, simbol al Răului, fiind în directă concordanță cu tema textului, și anume victoria Binelui asupra Răului."
             ]
         },
@@ -406,7 +423,7 @@ ALLOPERE =
             "rezumat": {
                 "expozitiune": "Un crai are trei fii. Fratele acestuia, împăratul Verde, îi cere craiului să-i trimită un fiu pentru a-i prelua împărăția. Fii cei mari însă nu trec de proba tatălui, deghizat în urs.",
                 "intriga": "Mezinul traversează podul, trecând testul tatălui, ajutat de Sfânta Duminică. Acesta își continuă drumul spre împărăția Verde. Rătăcit, acesta cere ajutorul unui om spân, care îl trădează și îl șantazează să intre în slujba lui, făcând schimb de roluri și numindu-l Harap-Alb.",
-                "desfasurarea_actiunii": "Surprinde călătoria pâna la împăratul Verde. Ajunși la acesta, Spânul își arată autoritatea asupra acestuia supunându-l la diferite încercări, ultima fiind să aducă fata împăratului Roș. În drum spre împărăția Roșie, Harap-Alb își face numeroși prieteni: Gerilă, Fomilă, Setilă, Ochilă și Păsări-Lăți-Lungilă, cu ajutorul cărora trece de probele împăratului Roș și primește fata acestuia.",
+                "desfasurarea_actiunii": "Surprinde călătoria pâna la împăratul Verde. Ajunși la acesta, Spânul își arată autoritatea asupra lui Harap-Alb supunându-l la diferite încercări, ultima fiind să aducă fata împăratului Roș. În drum spre împărăția Roșie, Harap-Alb își face numeroși prieteni: Gerilă, Fomilă, Setilă, Ochilă și Păsări-Lăți-Lungilă, cu ajutorul cărora trece de probele împăratului Roș și primește fata acestuia.",
                 "punctul_culminant": "Întorși la împărăția Verde, fata de împărat îl demască pe Spân, iar acesta îl decapitează pe Harap-Alb. Calul lui Harap-Alb se răzbună, ucigânu-l pe Spân, iar fata de împărat reușește să-l învie pe Harap-Alb.",
                 "deznodamant": "Surprinde restabilirea ordinii prin căsătoria lui Harap-Alb cu fata împăratului Roș și prin primirea împărăției."
             },
@@ -437,7 +454,7 @@ ALLOPERE =
         "name": "O scrisoare pierdută",
         "short": "",
         "autor": "caragiale",
-        "an_publicatie": 1884,
+        "an_publicatie": 1885,
         "volum": "„Convorbiri literare”",
         "gen": "epic",
         "link": "",
@@ -472,7 +489,7 @@ ALLOPERE =
                 },
                 {
                     "name": "Deznodământul fericit",
-                    "value": "Textu are un deznodământ fericit: Zoe își recuperează scrisoarea, îl iartă pe Cațavencu, iar membrii partidului dau o petrecere în cinstea noului ales."
+                    "value": "Textul are un deznodământ fericit: Zoe își recuperează scrisoarea, îl iartă pe Cațavencu, iar membrii partidului dau o petrecere în cinstea noului ales."
                 },
                 {
                     "name": "Comedie de moravuri",
@@ -481,24 +498,30 @@ ALLOPERE =
             ]
         },
         "perioada": "marilor_clasici",
-        "sursa_inspiratie": "",
+        "sursa_inspiratie": "Society",
         "teme": {
             "name": [
                 "lupta pentru putere",
                 "societatea"
             ],
-            "secvente": []
+            "secvente": [
+                "Reprezentativă pentru tema luptei pentru putere este practica șantajului, utilizată atât de Cațavencu cât și de Agamemnon Dandanache. Cațavencu utilizează scrisoarea pierdută de Zoe pentru a șantaja reprezentatii puterii, cerându-le să-i garanteze acestuia câștigarea alegerilor."
+            ]
+            
         },
         "curent": {
-            "enabled": false,
+            "enabled": true,
             "short": "realism",
-            "name": "",
-            "trasaturi": []
+            "name": "Realism",
+            "trasaturi": [
+                "Verosimilitate, autenticitate și obiectivitate, scriitorul se inspiră din evenimente politice ale vremii, și anume din organizarea alegerilor din anul 1883 și revizuirea Constituției.",
+                "Personajele reprezintă tipologii umane, sunt personaje tipice în împrejurări tipice. Tipătescu reprezintă tipul aventurierului, Trahanache reprezintă tipul încornoratului, Zoe - tipul adulterinei, cochetei, Cațavencu - tipul demagogului, Pristanda - tipul servitorului umil."
+            ]
         },
         "elemente": [
             {
                 "name": "Titlul",
-                "value": "Are rol în a anticipa conflictul dramatic, scrisoarea Zoei reprezentând „mărul discordiei”, fiind "
+                "value": "Are rol în a anticipa conflictul dramatic. Scrisoarea pierdută de Zoe reprezintă „mărul discordiei”, fiind cauza apariției conflictului pentru putere. "
             },
             {
                 "name": "Conflicte",
@@ -531,12 +554,12 @@ ALLOPERE =
                     "about": "Reprezintă tipul demagogului, al politicianului corupt"
                 },
                 {
-                    "name": "Cetățeanul turmentat",
-                    "about": "Beat"
-                },
-                {
                     "name": "Agamemnon Dandanache",
                     "about": "Reprezintă tipul canaliei, al bătrânului amnezic"
+                },
+                {
+                    "name": "Cetățeanul turmentat",
+                    "about": "Reprezintă tipul degustătorului de băuturi alcoolice."
                 }
             ],
             "timp": "în perioada contemporana a autorului: „anul de grălie 1883”",
@@ -931,7 +954,12 @@ ALLOPERE =
         "perioada": "interbelica",
         "sursa_inspiratie": "balada populară „Miorița”",
         "teme": {
-            "name": ["căutarea adevărului","viața satului de munte","familia","destinul"],
+            "name": [
+                "căutarea adevărului",
+                "viața satului de munte",
+                "familia",
+                "destinul"
+            ],
             "secvente": [
                 "O secvență reprezentativă pentru tema căutării adevărului este momentul din intriga romanului în care Vitoria se decide să plece în căutarea lui Nechifor. Soțul ei lipsise de peste șaptezeci de zile și după ce are un vis în care îl vede pe Nechifor trecând o apă, înțelege că ceva i s-a întâmplat și se hotărăște să îl cheme pe Gheorghiță și să meargă în căutarea lui Nechifor.",
                 "O altă secvență reprezentativa este momentul descoperirii rămășițelor lui Nechifor. Întorcându-se din Suha, în care Nechifor nu mai ajunsese, câinele lor, Lupu, găsește osemintele într-o prăpastie. Vitoria observă urma de baltag din craniu și își dă seama cum s-a petrecut omorul."
@@ -957,7 +985,13 @@ ALLOPERE =
             }
         ],
         "roman": {
-            "problematica": ["realist","tradițional","obiectiv","monografic","mitic și simbolic"],
+            "problematica": [
+                "realist",
+                "tradițional",
+                "obiectiv",
+                "monografic",
+                "mitic și simbolic"
+            ],
             "perspectiva_narativa": "Obiectivă cu focalizare zero",
             "structura": "Subiectul se constituie cronologic, acțiunea este relativ simplă și prezintă un singur fir narativ, remarcându-se tehnica înlănțuirii.",
             "personaje": [
@@ -1041,7 +1075,10 @@ ALLOPERE =
         "sursa_inspiratie": "",
         "teme": {
             "name": [
-                "viața burgheziei la începutul secolului XX", "iubirea", "lupta pentru avere", "destinul"
+                "viața burgheziei la începutul secolului XX",
+                "iubirea",
+                "lupta pentru avere",
+                "destinul"
             ],
             "secvente": [
                 "O secvență reprezentativă a vieții burgheziei este momentul sosirii lui Felix la casa lui Costache Giurgiuveanu. Aici, Felix face cunoștiință cu membrii Pascalopol și cu mebrii familiei Tulea, surprinși jucând cărți și fumând, reprezentând un obicei pentru dânșii.",
@@ -1072,7 +1109,12 @@ ALLOPERE =
             }
         ],
         "roman": {
-            "problematica": ["balzacian","realist", "obiectiv", "citadin"],
+            "problematica": [
+                "balzacian",
+                "realist",
+                "obiectiv",
+                "citadin"
+            ],
             "perspectiva_narativa": "Obiectivă cu focalizare zero",
             "structura": "Este de dimensiuni mare, fiind împărțit în 20 de capitole.",
             "personaje": [
