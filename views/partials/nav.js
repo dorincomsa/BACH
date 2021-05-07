@@ -41,9 +41,16 @@ let NAV = `<nav id="nav">
             display:flex;
             align-items: center;
         }
+        #nav .logo{
+            display:flex;
+            align-items: flex-end;
+        }
     </style>
-    <a href="../">
-        <span class="BAC">BAC</span><span class="H">H</span><span class="elper">elper</span><span class="version">V 1.4</span>
+    <a class="logo" href="../">
+        <span class="BAC">BAC</span>
+        <span class="H">H</span>
+        <span class="elper">elper</span>
+        <span class="version">V 1.5</span>
     </a>
-    <h4>Dorin va iubeste</h4>
+    <h4>Mai bine mort decat ungur</h4>
 </nav>`

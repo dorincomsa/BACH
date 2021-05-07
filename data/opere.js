@@ -160,6 +160,10 @@ ALLOPERE = [
             {
                 "name": "Finalul",
                 "value": "Acesta corespunde epilogului și ilustrează un principiu de viață, redat prin vorbele bătrânei: „Știam eu că n-are să iasă bine, dar așa le-a fost dat.”. Astfel, fără să știe ce s-a întâmplat la „Moara cu noroc”, aceasta preferă să accepte ideea că soarta este vinovată de sfârșitul tragic al fiicei și al ginerelui și nu ignoranța manifestată de Ghiță. De altfel, finalul înscrie nuvela în categoria tragicului, prin îndrăzneala personajelor de a înfrunta destinul, un destin care din punctul de vedere al bătrânei nu poate fi schimbat."
+            },
+            {
+                "name": "Acțiunea",
+                "value": "Se concentrează în jurul personajului principal, Ghiță. Aceasta este un cizmar care ia în arendă hanul de la Moara cu Noroc pentru a asigura familiei sale o mai bună situație financiară. La han îl întâlnește pe Lică Sămădăul, șef peste turme de porci, care se ocupă cu fărădelegi. Ghiță este atras în fărădelegile lui Lică, de pe urma cărora se îmbogățește, devenind lacom. Ghiță dorește să îl demascheze pe Lică, fapt pentru care apelează la jandarmul Pintea, cu care întocmește un plan. Planul însă eșuează, iar Ghiță, într-un moment de furie, o ucide pe Ana. Lică îl ucide pe Ghiță, dă foc hanului și încercând să evadeze, se sinucide, lovindu-se călare de un copac."
             }
         ],
         "roman": {
@@ -224,18 +228,14 @@ ALLOPERE = [
         "short": "luceafarul",
         "autor": "eminescu",
         "an_publicatie": 1883,
-        "volum": "Convorbiri literare",
+        "volum": "Almanahul Societății Academice Social-Literare „România Jună”",
         "gen": "liric",
-        "link": "",
+        "link": "https://www.versuri.ro/versuri/mihai-eminescu-luceafarul-_2dr6.html#",
         "specie": {
-            "enabled": true,
+            "enabled": false,
             "name": "Poem alegoric",
             "def": "",
             "trasaturi": [
-                {
-                    "name": "",
-                    "value": ""
-                },
                 {
                     "name": "",
                     "value": ""
@@ -250,25 +250,30 @@ ALLOPERE = [
             ],
             "secvente": [
                 "O secvență reprezentativă pentru tema condiției geniului se regăsește în primul tablou în scena metamorfozei Luceafărului și a coborârii pe Pământ, fiind refuzat de fata de împărat. Din această secvență reiese incompatibilitatea dintre cei doi: „Căci eu sunt vie, tu ești mort”.",
-                "O altă secvență reprezentativă o constituie drumul Luceafărului spre originile sale, unde îi cere Demiurgului să îi schimbe natura și ființa, pentru a se întoarce pe Pământ. Însă Demiurgul refuză și îl face să realizeze condiția sa: „Reia-mi al nemuririi nimb/ Si focul din privire,/ Si pentru toate da-mi în schimb/ O ora de iubire..."
+                "O altă secvență reprezentativă pentru tema condiției omului de geniu se regăsesște în al treilea tablou, și surprinde drumul lui Hyperion spre originile sale: „Porni luceafărul. Creșteau / În cer a lui aripe, / Și căi de mii de ani treceau / În tot atâtea clipe.” Hyperion îi cere Demiurgului să îi schimbe natura, făcându-l muritor, pentru a putea fi acceptat de fata de împărat: „De greul negrei vecinicii, / Părinte, mă dezleagă”, însă răspunsul Demiurgului îl face să își accepte natura sa cosmică, detașându-se de planul terestru: „Hyperion, ce din genuni / Răsai c-o-ntreagă lume, / Nu cere semne și minuni / Care n-au chip și nume ”."
             ]
         },
         "curent": {
             "short": "romantism",
             "name": "Romantism",
             "trasaturi": [
+                "O primă trăsătură a apartenenței la romantism o constituie prezența antitezei. Aceasta se remarcă atât la nivel compozițional, dintre planul cosmic și cel terestru, cât și la nivelul ideilor, dintre omul de geniu și omul comun. Luceafărul reprezintă omul de geniu, având origini cosmice având abilitatea de a-și depăși condiția: „– Din sfera mea venii cu greu / Ca să-ți urmez chemarea, / Iar cerul este tatăl meu / Și mumă-mea e marea.”; iar fata de împărat reprezintă omul comun, însă se individualizează prin idealurile sale: „Cobori în jos, luceafăr blând. / Alunecând pe-o rază, / Pătrunde-n casă și în gând / Și viața-mi luminează.”",
                 "Temele și motivele sunt de origine romantică, exprimate nuanțat la nivelul fiecăruit tablou. În primul tablou domnină tema iubirii, privită ca modalitate de cunoaștere; În al doilea tablou este prezentă tema iubirii de tip dionisiac, caracterizată prin senzualitate și apropiere fizică. În al treilea tablou domină tema cosmogoniei, Luceafărul întorcându-se spre originile sale pentru a-și întâlni creatorul. Iar ultimul tablou ne prezintă tema naturii în planul terestru, evidențtiată prin motivele specifice: motivul lunii, motivul nopții, motivul codrilor și al crângurilor. ",
-                "Prezența antitezei ca procedeu artistic de bază. Aceasta se regăsește la nivel compozițional, între planul terestru și planul cosmic, și la nivel ideatic, între omul de geniu și omul simplu: „Căci eu sunt vie, tu ești mort”."
+                "O altă trăsătură a apartenenței la romantism sunt sursele de inspirație. Poemul are ca surse de inspirație folclorul autohton, reprezentat de basmele „Fata din grădina de aur” și „Miron și frumoasa fără corp”, mitologia autohtonă și universală: mitul Zburătorului, Lucifer, Hyperion și Demiurg."
             ]
         },
         "elemente": [
+            {
+                "name": "Elemente de versificatie",
+                "value":"Un element semnficativ pentru construcția subiectului îl constituie elementele de prozodie. Poezia se caracterizează prin simetrie compozițională, fiind alcătuită din 98 de catrene și prezentând rimă încrucișată, ritm iambic și măsura versurilor de 7-8 silabe: „A fost odata ca-n povești/ A fost ca niciodată / Din rude mari împărătești  / O prea-frumoasă fată.”"
+            },
             {
                 "name": "Antiteza",
                 "value": "Prezența antitezei ca procedeu artistic de bază. Aceasta se regăsește la nivel compozițional, între planul terestru și planul cosmic, și la nivel ideatic, între omul de geniu și omul simplu: „Căci eu sunt vie, tu ești mort”."
             },
             {
                 "name": "Lirismul măștilor",
-                "value": "Se realizează prin existența unui scenariu epic: [...], la care participă anumite personaje-simbol, prin intermediul cărora sunt exprimate idei și sentimente"
+                "value": "Un alt element semnificativ îl reprezintă lirismul poeziei. Acesta este lirismul obiectiv, al măștilor, caracterizat prin prezența unor personaje-simbol, prin care sunt exprimate idei și sentimente: Luceafărul, simbol al omului de geniu, capabil să-și depășească condiția, având acces la cunoașterea absolută, fata de împărat, simbol al omului comun, individualizată prin idealurile sale intangibile, Cătălin, perechea în plan uman a Cătălinei, simbol al omului caracterizat prin instinctualitate, senzualitate; Demiurgul, simbol al creatorului suprem, al cunoașterii absolute."
             }
         ],
         "poezie": {
@@ -390,6 +395,10 @@ ALLOPERE = [
             {
                 "name": "Antiteza",
                 "value": "Un alt element reprezentativ este antiteza, între Harap-Alb, simbol al Binelui, și Spânul, simbol al Răului, fiind în directă concordanță cu tema textului, și anume victoria Binelui asupra Răului."
+            },
+            {
+                "name": "Acțiunea / Subiectul",
+                "value": "Se concentrează în jurul personajului principal, Harap-Alb, mezinul craiului, care pornește spre împărăția Verde, pentru a moșteni împărăția unchiului său, împăratul Verde, care nu avea fii. Pe drum se întovărășește cu Spânul, ignorând sfatul părintesc, care îl păcălește pe Harap-Alb și îl obligă să facă schimb de identități. Ajunși la împărăția Verde, Spânul îl supune pe Harap-Alb la numeroase probe: aducerea salatelor din grădina Ursului, aducerea cerbului cu pietre prețioase și aducerea fetei împăratului Roșu. Aceste probe sunt îndeplinite doar cu ajutorul prietenilor săi: Sfânta Duminică, Gerilă, Setilă, Fomilă, Ochilă, Lungilă, furnicile și regina albinelor. Ajunși înapoi la împărăția Verde, fata împăratului Roșu îl demască pe Spân, care îl ucide pe Harap-Alb, însă acesta este la rândul său ucis de calul eroului. Harap-Alb este adus la viață de fata de împărat, se căsătorește cu aceasta și primește împărăția unchiului său. "
             }
         ],
         "roman": {
