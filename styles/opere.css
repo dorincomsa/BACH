@@ -66,7 +66,7 @@ main{
     max-height: 100rem;
     transition: all 0.3s ease-in-out;
 }
-.grid.package-hidden{
+.package-hidden{
     max-height: 0;
 }
 div.grid >*{
@@ -96,6 +96,7 @@ div.grid-1col{
     display: grid;
     grid-template-columns: 1fr;
     padding: 0;
+    overflow: hidden;
 }
 div.grid-1col > *:nth-child(2n+1){
     background-color: white;
@@ -109,4 +110,18 @@ div.grid-1col > *:nth-child(2n){
 }
 .link:hover{
     color: rgb(0, 119, 255);
+}
+.argumentare .flex-column{
+    overflow: hidden;
+    padding: 0 2rem;
+}
+.argumentare .flex-column p{
+    margin: 1rem 0;
+    align-self: flex-start;
+    text-align: justify;
+}
+.argumentare .flex-column:not(.header){
+    margin-top: 1rem;
+    background-color: rgba(220, 220, 220, 0.5);
+    border-radius: 1rem;
 }

@@ -20,7 +20,7 @@ function renderOperaView(operashort) {
     })
     //BOTH EPIC AND LIRIC
 
-    let trasaturi_curent = opera.curent.trasaturi.map( tras =>{
+    /*let trasaturi_curent = opera.curent.trasaturi.map( tras =>{
         return `<p>${tras}</p>`
     }).join(' ')
 
@@ -237,12 +237,13 @@ function renderOperaView(operashort) {
     }
     
 
+    
+
     let BODY = `
         <main class="flex-column">
             <div class="package">
                 <h1 class="title" style="background-color: var(--${opera.curent.short}); color: ${opera.perioada.titlecolor}"> ${opera.name} </h1>
             </div>
-
             <div class="package">
                 <div class="w100 header flex-row">
                     <div><h2 class="subtitle">Descriere</h2></div>
@@ -347,7 +348,107 @@ function renderOperaView(operashort) {
         </main>
         
     `
+    */
 
+    let curente = opera.argumentare.curent.map(element=>{
+        return `<p>${element}</p>`
+    }).join(' ')
+    let teme = opera.argumentare.tema.map(element=>{
+        return `<p>${element}</p>`
+    }).join(' ')
+    let personaj = opera.argumentare.personaj.map(element=>{
+        return `<p>${element}</p>`
+    }).join(' ')
+    let elemente = opera.argumentare.elemente.map(element=>{
+        return `<p>${element}</p>`
+    }).join(' ')
 
+    let BODY=`
+    <main class="flex-column argumentare">
+            <div class="package">
+                <h1 class="title" style="background-color: var(--${opera.curent.short}); color: ${opera.perioada.titlecolor}"> ${opera.name} </h1>
+            </div>
+
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Date despre autor si opera</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100  flex-column">
+                    <p> ${opera.argumentare.date}</p>
+                </div>
+            </div>
+            
+           
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Curent / Specie</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100  flex-column">
+                    ${curente}
+                </div>
+            </div>
+            
+           
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Tema</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100  flex-column">
+                    ${teme}
+                </div>
+            </div>
+           
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Personaj</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100 flex-column">
+                    ${personaj}
+                </div>
+            </div>
+
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Elemente semnificative</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100 flex-column">
+                    ${elemente}
+                </div>
+            </div>
+           
+            <div class="package">
+                <div class="w100 header flex-row">
+                    <div><h2 class="subtitle">Concluzie</h2></div>
+                    <div class="hide-package" onclick="togglePackage(this)">
+                        <img class="vertical" src="../res/UI/line.svg" alt="">
+                        <img class="horizontal" src="../res/UI/line.svg" alt="">
+                    </div>
+                </div>
+                <div class="w100 flex-column">
+                    <p> ${opera.argumentare.concluzie}</p>
+                </div>
+            </div>
+        </main>
+    `
     return BODY;
 }

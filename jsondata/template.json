@@ -72,7 +72,31 @@
                     }
                 ]
             }
+        },
+        "argumentare":{
+            "date":"",
+            "curent":[
+                "",
+                "",
+                ""
+            ],
+            "tema":[
+                "",
+                "",
+                ""
+            ],
+            "personaj":[
+                "",
+                "",
+                ""
+            ],
+            "elemente":[
+                "Un element semnificativ pentru construcția subiectului îl constituie acțiunea.",
+                ""
+            ],
+            "concluzie":""
         }
+
     },
     {
         "name": "",

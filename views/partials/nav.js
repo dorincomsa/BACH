@@ -108,7 +108,7 @@ let NAV = `<nav id="nav">
         <span class="BAC">BAC</span>
         <span class="H">H</span>
         <span class="elper">elper</span>
-        <span class="version">V 1.6</span>
+        <span class="version">V 1.(9)</span>
     </a>
     <h4 class="message">
         <div id="countdown"></div>
