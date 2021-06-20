@@ -1622,27 +1622,25 @@ ALLOPERE =
             }
         },
         "argumentare":{
-            "date":"",
+            "date":"Poezia „Testament” este scrisă de Tudor Arghezi, poet și publicist din perioada interbelică. Textul a fost publicat în volumul de debut al autorului, „Cuvinte potrivite”, în anul 1927, și prezintă trăsături moderne, fiind o artă poetică modernă.",
             "curent":[
-                "",
-                "",
-                ""
+                "Poezia se încadrează în modernism, curent cultural și literar manifestat în prima jumătate a secolului al XX-lea în opoziție cu tradiționalismul, presupunând promovarea unor elemente înnoitoare în poezie și proză.",
+                "O trăsătură a apartenenței la modernism o constituie ambiguitatea tematică a poeziei, fiind utilizate numeroase figuri de stil și imagini artistice pentru a ilustra tema creației. Se realizează abstractizarea ideilor prin utilizarea unor metafore inovatoare precum: „hrisovul vostru”, „Dumnezeu de piatră”, „Hotar înalt”, prin care este sugerată moștenirea spirituală a înaintașilor.  În plus, se remarcă prezența esteticii urâtului, specifică lui Arghezi, prin care orice aspect al realității, oricât de grotesc sau urât, poate deveni material poetic: „Din bube, mucegaiuri și noroi / Iscat-am frumuseți și prețuri noi.”",
+                "O altă trăsătură a aparteneței la modernism o reprezintă structura poeziei, prin eliberarea de rigoriile prozodiei tradiționale. Poezia se caracterizează prin asimetrie compozițională, fiind alcătuită din cinci strofe inegale, având dimensiuni diferite, rima este împerecheată, iar ritmul și măsura versurilor sunt variabile. "
             ],
             "tema":[
-                "",
-                "",
-                ""
+                "Fiind o artă poetică modernă, tema operei este creația, și are în vedere viziunea despre lume a autorului, care consideră creația ca fiind un meșteșug, a cărui geneză implică atât inspirație, cât și trudă.",
+                "Reprezentativă pentru tema creației ca meșteșug este secvența „Slova de foc și slova făurită/ Împerechate-n carte se mărită.”, în care „Slova de foc” este o metaforă pentru harul divin, în timp ce „slova făurită” este o metaforă pentru munca depusă. Astfel, din îmbinarea acestor două elemente se naște „cartea”, care fiind o metaforă pentru creației, având valoare simbolică, creează o perfectă simetrie cu concepția despre creație a autorului.",
+                "O altă secvență reprezentativă pentru tema creației este „Bătrânii au adunat, printe plăvani / Sudoarea muncii sutelor de ani.” Din aceasta reiese ideea că experiența înaintașilor este un aspect definitoriu al creației, întrucât acest proces istovitor și purificator este în continuă evoluție. De asemenea, creația este privită ca o moștenire spirituală, intangibilă, nedegradabilă, a cărei valori poate supraviețui ani întregi."
             ],
             "personaj":[
-                "",
-                "",
                 ""
             ],
             "elemente":[
-                "Un element semnificativ pentru construcția subiectului îl constituie acțiunea.",
-                ""
+                "Un element semnificativ pentru construcția poeziei îl constituie titlul. Titlul poeziei „Testament” este alcătuit dintr-un substantiv comun, simplu și nearticulat, care în  sens denotativ reprezintă un act în care sunt cuprinse dorințele unei persoane ce vor fi îndeplinite după moartea acesteia. În sens conotativ, titlul este o metaforă care semnifică moștenirea pe care poetul o lasă urmașilor, fiind vorba de o moștenire spirituală, creația este înmânată cititorului.",
+                "Un alt elemente semnificativ pentru construcția poeziei sunt motivele lirice. Motivul central al textului este motivul cărții, care este un simbol pentru creație și cunoaștere și care prin modul în care ia naștere, are un rol purificator și transfigurator al realității. Alte motive literare representative sunt motivul slovei, motivul trudei și motivul raportului rob-Domn."
             ],
-            "concluzie":""
+            "concluzie":"Prin urmare, în arta poetică „Testament”, scrisă de Tudor Arghezi, atât elementele de compoziție cât și tematica și concepția despre lume a eului liric dovedesc viziunea modernistă a autorului asupra textului și asupra creației, întărită atât de figurile de stil inovatoare cât și de simbolurile și motivele abstracte utilizate."
         }
     },
     {
@@ -1741,27 +1739,25 @@ ALLOPERE =
             }
         },
         "argumentare":{
-            "date":"",
+            "date":"Poezia „Ryga Crypto și lapona Enigel” este scrisă de Ion Barbu, poet și matematician din perioada interbelică, reprezentant al modernismului românesc. Textul a fost publicat în volumul „Joc secund” în anul 1930, și este un poem alegoric care prezintă trăsături moderniste.",
             "curent":[
-                "",
-                "",
-                ""
+                "Poemul se încadrează în modernism, curent cultural și literar manifestat în prima jumătate a secolului al XX-lea în opoziție cu tradiționalismul, presupunând promovarea unor elemente înnoitoarea în poezie și proză.",
+                "O trăsătură a aparteneței la modernism o constituie depășirea limitelor tradiționale prin tematica abordată și mijloacele artistice utilizate. Textul este un poem alegoric bazat pe tema cunoașterii, prezentând o dimensiune simbol-alegorică, prin prezența unor personaje-simbol, prin intermediul cărora sunt exprimate idei și sentimente. Riga Crypto este simbol al ființei inferioare, vegetative, incapabilă să-și depășească condiția, în timp ce Enigel este simbol al ființei superioare, spirituale, a cărei aspirații îi permit să-și depășească condiția.",
+                "O altă trăsătură a aparteneței la modernism o constituie structura poeziei, eliberându-se de rigoriile prozodiei tradiționale. Poezia se caracterizează prin asimetrie compozițională, fiind alcătuită din douăzeci și șapte de strofe inegale, având un ritmul, rima și măsura versurilor variabile. "
             ],
             "tema":[
-                "",
-                "",
-                ""
+                "Tema centrală a poeziei este incompatibilitatea a două ființe provenind din lumi diferite, dublată de tema iubirii ca modalitate de cunoaștere, și are în vedere relația dintre Crypto și Enigel.",
+                "O secvență reprezentativă pentru tema incompatibilității ființelor care provin din lumi diferite este momentul în care Crypto îi face cele trei propuneri lui Enigel. Inițial îi oferă fragi fragezi, după o roagă să îl ia cu ea și în final îi cere să rămână cu el, în lumea sa. Toate aceste propuneri sunt refuzate de Enigel, justificând că „Mă-nchin la soarele-nţelep”. Din această secvență reiese aspirația lui Enigel spre cunoaștere, reprezentată de simbolul soarelui, aspirație care este incompatibilă cu Crypto.",
+                "O altă secvență reprezentativă pentru tema textului este despărțirea dintre cei doi și metamorfoza lui Crypto, în momentul în care razele soarelui se revarsă asupra sa: „Şi sucul dulce înăcreşte! / Ascunsa-i inimă plesneşte”. Crypto este astfel pedepsit pentru aspirațiile sale incompatibile cu natura sa, transformându-se într-o ciupercă otrăvitoare. În plus, căsătoria sa cu măsălarița, plantă otrăvitoare, sugerează ideea că există compatibilitate doar între cei care au aceeași condiție."
             ],
             "personaj":[
-                "",
-                "",
                 ""
             ],
             "elemente":[
-                "Un element semnificativ pentru construcția subiectului îl constituie acțiunea.",
-                ""
+                "Un element semnficativ pentru construcția poeziei îl este titlul. Titlul poemului „Riga Crypto și lapona Enigel” anticipă relația de opoziție pe care este construită poezia. Acesta este alcătuit din numele celor două personaje-simbol: riga Crypto, reprezentant al lumii vegetale, al ființei inferioare, incapabile de a-și depăși condiția, și lapona Enigel, simbol al ființei superioare, al existenței spirituale, aspirând spre cunoașterea absolută. Astfel, titlul evidențiază rolul pe care aceste două personaje-simbol îl au în transmiterea mesajului poetic.",
+                "Un alt element reprezentativ pentru construcția textului este incipitul poeziei. Incipitul este alcătuit de primele patru strofe ale poemului și surprinde o nuntă medievală, în care un nuntaș îl roagă pe menestrel să spună povestea de dragoste dintre Crypto și Enigel: „Mult îndărătnic menestrel / Un cântec larg tot mai încearcă, / Zi-mi de lapona Enigel / Și Crypto, regele ciupearcă.” Incipitul reprezintă cardul sau rama poveștii spuse de către menestrel la nuntă, iar nunta în sine are valoare simbolică, semnificând iubirea împlinită, compatibilă, fiind deci în opoziție cu ideea centrală a poemului."
             ],
-            "concluzie":""
+            "concluzie":"Prin urmare, „Riga Crypto și lapona Enigel de Ion Barbu este un poem alegoric, având trăsături moderniste, și care surprinde tema cunoașterii și a incompatibilității ființelor ce provind din lumi diferite, fiind în armonie cu elementele de compoziție mijloacele artistice utilizate."
         }
     },
     {
