@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log('hua')
-    let countDownDate = new Date("Jun 28, 2021 09:00:00").getTime();
+    let countDownDate = new Date("Jun 21, 2022 09:00:00").getTime();
 
     let x = setInterval(function () {
         let now = new Date().getTime();
